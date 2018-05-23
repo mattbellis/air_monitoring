@@ -2,9 +2,9 @@
 
 **Lauren's Notes** 
    *Day Numero Uno*:
-        * I learned what exactly an arudino is as well as the parts to an arduino
-        * I was issued an arduino (well Adadfruit Metro but basically the same thing), breadboard, a box LED's, a box of resistors and a box of wires
-        * I learned to wire the Adafruit and breadboard so an LED would blink
+         I learned what exactly an arudino is as well as the parts to an arduino
+         I was issued an arduino (well Adadfruit Metro but basically the same thing), breadboard, a box LED's, a box of resistors and a box of wires
+         I learned to wire the Adafruit and breadboard so an LED would blink
         Basically an intro to what we are doing as well as getting familiar with our work space
     *Day Numero Dos*:
           I spent time learning how to wire the circuit for multiple LED's
