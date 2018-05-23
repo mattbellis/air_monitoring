@@ -8,7 +8,7 @@
        +  I learned to wire the Adafruit and breadboard so an LED would blink
        + Basically an intro to what we are doing as well as getting familiar with our work space
         
-**     *Day Numero Dos*:
+*     *Day Numero Dos*:
          + I spent time learning how to wire the circuit for multiple LED's
          + That took me literally all day to figure out because of software issues on the computer
               ++ I purchased an adapter due to my computer being a Macbook Pro Sierra version 10.13.4 therefore it does not have a normal USB port. It was a USB-C to USB adapter cable by Apple, bought from Best Buy for $20.52
