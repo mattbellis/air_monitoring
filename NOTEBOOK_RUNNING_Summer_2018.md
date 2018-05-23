@@ -8,6 +8,7 @@
        +  I learned to wire the Adafruit and breadboard so an LED would blink
        + Basically an intro to what we are doing as well as getting familiar with our work space
        
+       
 *     *Day Numero Dos*:
          + I spent time learning how to wire the circuit for multiple LED's
          + That took me literally all day to figure out because of software issues on the computer
