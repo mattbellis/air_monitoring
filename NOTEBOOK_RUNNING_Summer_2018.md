@@ -25,4 +25,6 @@
               https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/pitot.html
               https://en.wikipedia.org/wiki/Pitot_tube
               https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/bern.html 
+              
+            [ Velocity equation help:  https://physics.stackexchange.com/questions/95620/relation-between-pressure-velocity-and-area ] 
 
