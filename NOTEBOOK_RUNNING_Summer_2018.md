@@ -40,6 +40,12 @@
          *Day Numero Cinco*;
               + Today's goal was to rewire the temp/humidity sensor just to make sure we can replicate it
               + We are going to try and set up the barometer to get barometric pressure readings, temp readings and altitude readings
+              + It took us 5 hours of rewiring, recoding , searching the web and just ultimately wanting to die before we realized that we just needed to solder the pins to the barometer sensor
+              + We added to the code to calculate air density using measurements that we obtain through the sensor
+              + Overall very successful day, next step is to assemble/mount the sensors onto a vacuum
+              
+              https://learn.adafruit.com/using-mpl3115a2-with-circuitpython/hardware
+              https://www.brisbanehotairballooning.com.au/calculate-air-density/
 
 
 
