@@ -30,6 +30,16 @@
             [ Velocity equation help:  https://physics.stackexchange.com/questions/95620/relation-between-pressure-velocity-and-area ] 
             
             +Data Sheet to convert Voltage to Pressure: https://www.mouser.com/ProductDetail/NXP-Freescale/MPXV7002DP?qs=sGAEpiMZZMvhQj7WZhFIALpLlyV3lh9L9vMZsod5OrI%3d
+         *Day Numero Cuatro*:
+              + We fixed the code for the pitot tube, we made it so the offset corrected itself 
+              + We learned how to connect the temp/humidity sensor to the arduino
+                    ++ We had issues with the code but it turns out Lauren just did the wrong one, we needed to download a few things and eventually it was working. That and there were slight modifications to the wiring.
+                    
+              https://learn.adafruit.com/dht/dht-circuitpython-code
+                    
+         *Day Numero Cinco*;
+              + Today's goal was to rewire the temp/humidity sensor just to make sure we can replicate it
+              + We are going to try and set up the barometer to get barometric pressure readings, temp readings and altitude readings
 
 
 
