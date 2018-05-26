@@ -27,7 +27,7 @@
               https://en.wikipedia.org/wiki/Pitot_tube
               https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/bern.html 
               
-            [ Velocity equation help:  https://physics.stackexchange.com/questions/95620/relation-between-pressure-velocity-and-area ] 
+             Velocity equation help:  https://physics.stackexchange.com/questions/95620/relation-between-pressure-velocity-and-area  
             
             +Data Sheet to convert Voltage to Pressure: https://www.mouser.com/ProductDetail/NXP-Freescale/MPXV7002DP?qs=sGAEpiMZZMvhQj7WZhFIALpLlyV3lh9L9vMZsod5OrI%3d
          *Day Numero Cuatro*:
