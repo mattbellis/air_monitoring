@@ -11,13 +11,13 @@
 ## *Day Numero Dos*:
 * I spent time learning how to wire the circuit for multiple LED's
 * That took me literally all day to figure out because of software issues on the computer
-        * I purchased an adapter due to my computer being a Macbook Pro Sierra version 10.13.4 therefore it does not have a normal USB port. It was a USB-C to USB adapter cable by Apple, bought from Best Buy for $20.52      
-        * Turns out it was actually just my security settings, eventually got the lights blinking
-        * I was issued a pitot tube, pitot tube measures Voltage but we need it to measure air pressure
-                * How are we going to go about this...?
+  * I purchased an adapter due to my computer being a Macbook Pro Sierra version 10.13.4 therefore it does not have a normal USB port. It was a USB-C to USB adapter cable by Apple, bought from Best Buy for $20.52      
+  * Turns out it was actually just my security settings, eventually got the lights blinking
+  * I was issued a pitot tube, pitot tube measures Voltage but we need it to measure air pressure
+    * How are we going to go about this...?
 * We need to know total mass of air that flows through the tube
-        * Volts to pressure?
-        * 1024 reading = 5V (analog)
+  * Volts to pressure?
+  * 1024 reading = 5V (analog)
         
 ## Day Numero Tres:
            + We will be spending time logging information as well as testing the pitot tube
