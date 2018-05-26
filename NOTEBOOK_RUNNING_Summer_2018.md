@@ -2,7 +2,7 @@
 # Week 1 (5/21/2018-5/25/2018)
 
 **Lauren's Notes** 
-*   *Day Numero Uno*:
+## *Day Numero Uno*:
 
        +  I learned what exactly an arudino is as well as the parts to an arduino
        +  I was issued an arduino (well Adadfruit Metro but basically the same thing), breadboard, a box LED's, a box of resistors and a box of wires
