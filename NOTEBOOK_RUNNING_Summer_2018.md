@@ -31,28 +31,34 @@
    * Data Sheet to convert Voltage to Pressure: 
         * https://www.mouser.com/ProductDetail/NXP-Freescale/MPXV7002DP?qs=sGAEpiMZZMvhQj7WZhFIALpLlyV3lh9L9vMZsod5OrI%3d
  ## Day 4:
- * We fixed the code for the pitot tube, we made it so the offset corrected itself 
- * We learned how to connect the temp/humidity sensor to the arduino
+  * We fixed the code for the pitot tube, we made it so the offset corrected itself 
+  * We learned how to connect the temp/humidity sensor to the arduino
        * We had issues with the code but it turns out Lauren just did the wrong one, we needed to download a few things and eventually it was working. That and there were slight modifications to the wiring.
             * https://learn.adafruit.com/dht/dht-circuitpython-code
                     
-## Day 5:
-* Today's goal was to rewire the temp/humidity sensor just to make sure we can replicate it
-* We are going to try and set up the barometer to get barometric pressure readings, temp readings and altitude readings
-* It took us 5 hours of rewiring, recoding , searching the web and just ultimately wanting to die before we realized that we just needed to solder the pins to the barometer sensor
- * We added to the code to calculate air density using measurements that we obtain through the sensor 
- * Overall very successful day, next step is to assemble/mount the sensors onto a vacuum
-                * https://learn.adafruit.com/using-mpl3115a2-with-circuitpython/hardware
-              * https://www.brisbanehotairballooning.com.au/calculate-air-density/
-
+ ## Day 5:
+  * Today's goal was to rewire the temp/humidity sensor just to make sure we can replicate it
+  * We are going to try and set up the barometer to get barometric pressure readings, temp readings and altitude readings
+  * It took us 5 hours of rewiring, recoding , searching the web and just ultimately wanting to die before we realized that we just needed to solder the pins to the barometer sensor
+  * We added to the code to calculate air density using measurements that we obtain through the sensor
+  * Overall very successful day, next step is to assemble/mount the sensors onto a vacuum
+       * Useful links: 
+            * https://learn.adafruit.com/using-mpl3115a2-with-circuitpython/hardware
+            * https://www.brisbanehotairballooning.com.au/calculate-air-density/
+        
 # Week 2 (05/28/2018 - 06/01/2018)
 
 ## Day 6 [Memorial Day]:
  * Designed potential model for how to hook sensors up to vacuum tube
  * Tiny holes in vacuum tube (will eventually be sealed) to thread wires through 
-        * But also, attach strings to pitot tube in order ot create tension to keep pitot tube in middle of vacuum tube
+    * But also, attach strings to pitot tube in order ot create tension to keep pitot tube in middle of vacuum tube
  * Velcro used to secure the sensors down to the tube, velcro is easy to use because it creates a tight bond when attached but can be easily removed when trial is done
  * Zip tie to keep wires together (organizational purposes more than utility)
+ 
+ ## Day 7:
+  * Potential prototypes for apparatus
+    * Setting up code to make LED's blink at calculating offset stage (for pitot tube) and when it has been calculated
+    * Potentially condense it down to make LED blink at end of offset calculation 
         
 
 
