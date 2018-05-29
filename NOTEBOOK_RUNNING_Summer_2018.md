@@ -59,8 +59,8 @@
   * Potential prototypes for apparatus
   * Get a code to make a Red LED blink while Pitot tube is calibrating the 0 level and a green LED to blink when the pitot tube starts to measure and collect data.
   * Barometer, temp & humid sensor, and pitot tube all collecting data, all connecting to arduino and breadboard. Using all three the goal is to calculate a more precise density and velocity of air.
-     * Some issues; the air isnt completelt dry air- using Humid air -
-           *https://www.brisbanehotairballooning.com.au/calculate-air-density/
+        * Some issues; the air isnt completelt dry air- using Humid air -
+             * https://www.brisbanehotairballooning.com.au/calculate-air-density/
          
      
         
