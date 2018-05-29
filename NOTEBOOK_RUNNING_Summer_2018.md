@@ -57,8 +57,12 @@
  
  ## Day 7:
   * Potential prototypes for apparatus
-    * Setting up code to make LED's blink at calculating offset stage (for pitot tube) and when it has been calculated
-    * Potentially condense it down to make LED blink at end of offset calculation 
+  * Get a code to make a Red LED blink while Pitot tube is calibrating the 0 level and a green LED to blink when the pitot tube starts to measure and collect data.
+  * Barometer, temp & humid sensor, and pitot tube all collecting data, all connecting to arduino and breadboard. Using all three the goal is to calculate a more precise density and velocity of air.
+     * Some issues; the air isnt completelt dry air- using Humid air -
+           *https://www.brisbanehotairballooning.com.au/calculate-air-density/
+         
+     
         
 
 
