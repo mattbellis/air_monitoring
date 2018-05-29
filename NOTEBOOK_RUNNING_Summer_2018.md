@@ -30,18 +30,17 @@
  ## Day 4:
    * We fixed the code for the pitot tube, we made it so the offset corrected itself 
    * We learned how to connect the temp/humidity sensor to the arduino
-                    ++ We had issues with the code but it turns out Lauren just did the wrong one, we needed to download a few things and eventually it was working. That and there were slight modifications to the wiring.
-                    ++ https://learn.adafruit.com/dht/dht-circuitpython-code
+                    * We had issues with the code but it turns out Lauren just did the wrong one, we needed to download a few things and eventually it was working. That and there were slight modifications to the wiring.
+                    * https://learn.adafruit.com/dht/dht-circuitpython-code
                     
 ## Day 5:
-              + Today's goal was to rewire the temp/humidity sensor just to make sure we can replicate it
-              + We are going to try and set up the barometer to get barometric pressure readings, temp readings and altitude readings
-              + It took us 5 hours of rewiring, recoding , searching the web and just ultimately wanting to die before we realized that we just needed to solder the pins to the barometer sensor
-              + We added to the code to calculate air density using measurements that we obtain through the sensor
-              + Overall very successful day, next step is to assemble/mount the sensors onto a vacuum
-              
-              https://learn.adafruit.com/using-mpl3115a2-with-circuitpython/hardware
-              https://www.brisbanehotairballooning.com.au/calculate-air-density/
+  * Today's goal was to rewire the temp/humidity sensor just to make sure we can replicate it
+  * We are going to try and set up the barometer to get barometric pressure readings, temp readings and altitude readings
+  * It took us 5 hours of rewiring, recoding , searching the web and just ultimately wanting to die before we realized that we just needed to solder the pins to the barometer sensor
+  * We added to the code to calculate air density using measurements that we obtain through the sensor
+  * Overall very successful day, next step is to assemble/mount the sensors onto a vacuum
+              * https://learn.adafruit.com/using-mpl3115a2-with-circuitpython/hardware
+              * https://www.brisbanehotairballooning.com.au/calculate-air-density/
 
 # Week 2 (05/28/2018 - 06/01/2018)
         
