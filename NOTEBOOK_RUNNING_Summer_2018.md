@@ -3,17 +3,17 @@
 
 **Notes** 
 ## Day 1:
-* I learned what exactly an arudino is as well as the parts to an arduino
-*  I was issued an arduino (well Adadfruit Metro but basically the same thing), breadboard, a box LED's, a box of resistors and a box of wires
-*  I learned to wire the Adafruit and breadboard so an LED would blink
+* We learned what exactly an arudino is as well as the parts to an arduino
+* Issued an arduino (well Adadfruit Metro but basically the same thing), breadboard, a box LED's, a box of resistors and a box of wires
+* We learned to wire the Adafruit and breadboard so an LED would blink
 *  Basically an intro to what we are doing as well as getting familiar with our work space
         
 ## Day 2 :
-* I spent time learning how to wire the circuit for multiple LED's
-* That took me literally all day to figure out because of software issues on the computer
-  * I purchased an adapter due to my computer being a Macbook Pro Sierra version 10.13.4 therefore it does not have a normal USB port. It was a USB-C to USB adapter cable by Apple, bought from Best Buy for $20.52      
+* We spent time learning how to wire the circuit for multiple LED's
+* Took most of the day due to software issues
+  * Lauren purchased an adapter due to my computer being a Macbook Pro Sierra version 10.13.4 therefore it does not have a normal USB port. It was a USB-C to USB adapter cable by Apple, bought from Best Buy for $20.52      
   * Turns out it was actually just my security settings, eventually got the lights blinking
-  * I was issued a pitot tube, pitot tube measures Voltage but we need it to measure air pressure
+  * We were given a pitot tube, pitot tube measures Voltage but we need it to measure air pressure
     * How are we going to go about this...?
 * We need to know total mass of air that flows through the tube
   * Volts to pressure?
