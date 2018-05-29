@@ -22,9 +22,9 @@
 ## Day 3:
    * We will be spending time logging information as well as testing the pitot tube
    * I personally need to figure out how to connect the tube, I have been reading links and stuff about the tubes
-              ++ https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/pitot.html
-              ++ https://en.wikipedia.org/wiki/Pitot_tube
-              ++ https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/bern.html 
+              * https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/pitot.html
+              * https://en.wikipedia.org/wiki/Pitot_tube
+              * https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/bern.html 
               
              Velocity equation help:  https://physics.stackexchange.com/questions/95620/relation-between-pressure-velocity-and-area  
             
