@@ -22,16 +22,19 @@
 ## Day 3:
    * We will be spending time logging information as well as testing the pitot tube
    * I personally need to figure out how to connect the tube, I have been reading links and stuff about the tubes
-   * Pitot Tube Information :https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/pitot.html
-   * https://en.wikipedia.org/wiki/Pitot_tube
-   * https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/bern.html 
-   * Velocity equation help:  https://physics.stackexchange.com/questions/95620/relation-between-pressure-velocity-and-area  
-   * Data Sheet to convert Voltage to Pressure: https://www.mouser.com/ProductDetail/NXP-Freescale/MPXV7002DP?qs=sGAEpiMZZMvhQj7WZhFIALpLlyV3lh9L9vMZsod5OrI%3d
+         * Pitot Tube Information:  
+                 * https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/pitot.html
+                 * https://en.wikipedia.org/wiki/Pitot_tube
+                 * https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/bern.html 
+         * Velocity equation help:  
+                 * https://physics.stackexchange.com/questions/95620/relation-between-pressure-velocity-and-area  
+   * Data Sheet to convert Voltage to Pressure: 
+                 * https://www.mouser.com/ProductDetail/NXP-Freescale/MPXV7002DP?qs=sGAEpiMZZMvhQj7WZhFIALpLlyV3lh9L9vMZsod5OrI%3d
  ## Day 4:
    * We fixed the code for the pitot tube, we made it so the offset corrected itself 
    * We learned how to connect the temp/humidity sensor to the arduino
                     * We had issues with the code but it turns out Lauren just did the wrong one, we needed to download a few things and eventually it was working. That and there were slight modifications to the wiring.
-                    * https://learn.adafruit.com/dht/dht-circuitpython-code
+                        * https://learn.adafruit.com/dht/dht-circuitpython-code
                     
 ## Day 5:
   * Today's goal was to rewire the temp/humidity sensor just to make sure we can replicate it
