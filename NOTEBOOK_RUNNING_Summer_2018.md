@@ -46,6 +46,13 @@
               * https://www.brisbanehotairballooning.com.au/calculate-air-density/
 
 # Week 2 (05/28/2018 - 06/01/2018)
+
+## Day 6 [Memorial Day]:
+ * Designed potential model for how to hook sensors up to vacuum tube
+ * Tiny holes in vacuum tube (will eventually be sealed) to thread wires through 
+        * But also, attach strings to pitot tube in order ot create tension to keep pitot tube in middle of vacuum tube
+ * Velcro used to secure the sensors down to the tube, velcro is easy to use because it creates a tight bond when attached but can be easily removed when trial is done
+ * Zip tie to keep wires together (organizational purposes more than utility)
         
 
 
