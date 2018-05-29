@@ -49,7 +49,7 @@
 # Week 2 (05/28/2018 - 06/01/2018)
 
 ## Day 6 [Memorial Day]:
- * Lauren took some time to try and design how the sensors should be mounted and possible materials to use in order to get the sensors to stay secured
+ * Took some time to try and design how the sensors should be mounted and possible materials to use in order to get the sensors to stay secured
      * Thinking of having holes in the tube (tiny) to thread the wires through as well as string to create tension to keep the pitot tube centered in the vacuum. 
      * The holes will eventually be sealed in order to reduce error in measurements
      * The sensors can be stuck to tube with velcro, therefore they will be secure when attached but are able to be detached in order to analyze data in the computer
