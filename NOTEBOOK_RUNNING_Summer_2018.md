@@ -1,4 +1,5 @@
 
+
 # Week 1 (5/21/2018-5/25/2018)
 
 **Notes** 
@@ -61,7 +62,10 @@
   * Barometer, temp & humid sensor, and pitot tube all collecting data, all connecting to arduino and breadboard. Using all three the goal is to calculate a more precise density and velocity of air.
        * Some issues; the air isnt completelt dry air- using Humid air:
             * https://www.brisbanehotairballooning.com.au/calculate-air-density/
-         
+
+## Day 8:
+ * What is humidity? 
+      * http://www.edinformatics.com/math_science/what_is_humidity.htm
      
         
 
