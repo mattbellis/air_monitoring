@@ -46,6 +46,17 @@ Can we 3D print a holder! Maybe by modifiying a design of something else?
 * https://www.thingiverse.com/thing:2485988
 * https://www.thingiverse.com/thing:2480965
 
+## Day 9:
+  * Work on prototype of tube attachment that will have pitot tube
+   * Potentially thinking of getting bluetooth arduino
+  * Try to 3-D print a filter holder because filter holders cost around $300
+   * The filters we have are 4.5 cm roughly, would 8 of them to amount to the 15 cm sized filter
+  * Thinking about attaching a cone to the end of the pitot tube hose and then the pitot tube hose to the vacuum with a filter in front of pitot
+  * Probably will need ball flow meter, possibly a manometer if we need density
+   * Whilst we could calculate density somehow, it is confusing because there are different equations for dry air and humid but Dr.Rhoads said that humid air doesn't really matter
+  
+   
+
 
 
 
