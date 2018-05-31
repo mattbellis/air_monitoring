@@ -1,12 +1,12 @@
 # Week 2 (05/28/2018 - 06/01/2018)
 
-## Day 6 [Memorial Day]:
+## Day 6 [Memorial Day] :
  * Designed potential model for how to hook sensors up to vacuum tube
  * Tiny holes in vacuum tube (will eventually be sealed) to thread wires through 
     * But also, attach strings to pitot tube in order ot create tension to keep pitot tube in middle of vacuum tube
  * Velcro used to secure the sensors down to the tube, velcro is easy to use because it creates a tight bond when attached but can be easily removed when trial is done
  * Zip tie to keep wires together (organizational purposes more than utility)
- 
+
  ## Day 7:
   * Potential prototypes for apparatus
   * Get a code to make a Red LED blink while Pitot tube is calibrating the 0 level and a green LED to blink when the pitot tube starts to measure and collect data.
@@ -45,6 +45,7 @@ Can we 3D print a holder! Maybe by modifiying a design of something else?
 * https://www.thingiverse.com/search/page:7?q=filter+holder&sa=&dwh=85b0eee314e9d7
 * https://www.thingiverse.com/thing:2485988
 * https://www.thingiverse.com/thing:2480965
+
 
 
 
@@ -96,4 +97,4 @@ Can we 3D print a holder! Maybe by modifiying a design of something else?
        * Useful links: 
             * https://learn.adafruit.com/using-mpl3115a2-with-circuitpython/hardware
             * https://www.brisbanehotairballooning.com.au/calculate-air-density/
-        
+
