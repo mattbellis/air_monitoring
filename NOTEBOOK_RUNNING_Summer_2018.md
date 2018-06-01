@@ -62,6 +62,8 @@ Can we 3D print a holder! Maybe by modifiying a design of something else?
 Possible relevant article [PIXE and XRF analysis of atmospheric aerosols from a site in the West area of Mexico City](https://www.sciencedirect.com/science/article/pii/S0168583X13007581)
 
 Also this one, [Simultaneous PIXE and XRF elemental analysis of atmospheric aerosols](https://www.researchgate.net/publication/271226028_Simultaneous_PIXE_and_XRF_elemental_analysis_of_atmospheric_aerosols)
+
+Also this! [Potassium as a Marker in Air Particulate Matter After Crop Residue Burning Events in Patiala, India](https://www.researchgate.net/publication/257164864_Potassium_as_a_Marker_in_Air_Particulate_Matter_After_Crop_Residue_Burning_Events_in_Patiala_India)
   
    
 
