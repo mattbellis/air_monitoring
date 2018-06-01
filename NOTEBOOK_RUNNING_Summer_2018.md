@@ -54,6 +54,8 @@ Can we 3D print a holder! Maybe by modifiying a design of something else?
   * Thinking about attaching a cone to the end of the pitot tube hose and then the pitot tube hose to the vacuum with a filter in front of pitot
   * Probably will need ball flow meter, possibly a manometer if we need density
    * Whilst we could calculate density somehow, it is confusing because there are different equations for dry air and humid but Dr.Rhoads said that humid air doesn't really matter
+  * Tested out the vacuum; it gives the good succ. 
+   * Measuring the velocity at around 100 mph
    
 ## Day 10
 
