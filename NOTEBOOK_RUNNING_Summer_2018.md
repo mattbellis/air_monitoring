@@ -58,6 +58,8 @@ Can we 3D print a holder! Maybe by modifiying a design of something else?
 ## Day 10
 
 Possible relevant article [PIXE and XRF analysis of atmospheric aerosols from a site in the West area of Mexico City](https://www.sciencedirect.com/science/article/pii/S0168583X13007581)
+
+Also this one, [Simultaneous PIXE and XRF elemental analysis of atmospheric aerosols](https://www.researchgate.net/publication/271226028_Simultaneous_PIXE_and_XRF_elemental_analysis_of_atmospheric_aerosols)
   
    
 
