@@ -67,6 +67,7 @@ Also this! [Potassium as a Marker in Air Particulate Matter After Crop Residue B
 Learned how to use the XRF in Saints Center-
   * Many questions were raised regarding things to do/ things we need
     * What are our filters made of? How do we minimize contaminating the filter? How do we maximize the measurements we take? 
+  * Should get our own hard drive// can we collect raw data? 
   
    
 
