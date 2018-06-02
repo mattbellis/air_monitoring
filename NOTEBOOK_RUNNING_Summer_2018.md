@@ -16,8 +16,7 @@
             * https://www.brisbanehotairballooning.com.au/calculate-air-density/
 
 ## Day 8:
- * What is humidity? 
-      * http://www.edinformatics.com/math_science/what_is_humidity.htm
+ Humidity [What is humidity](http://www.edinformatics.com/math_science/what_is_humidity.htm)
      
 *Bellis' comments after we talked with Prof. Rhoads.* 
 
@@ -54,7 +53,7 @@ Can we 3D print a holder! Maybe by modifiying a design of something else?
   * Thinking about attaching a cone to the end of the pitot tube hose and then the pitot tube hose to the vacuum with a filter in front of pitot
   * Probably will need ball flow meter, possibly a manometer if we need density
    * Whilst we could calculate density somehow, it is confusing because there are different equations for dry air and humid but Dr.Rhoads said that humid air doesn't really matter
-  * Tested out the vacuum; it gives the good succ. 
+  * Tested out the vacuum; I think it works?? 
    * Measuring the velocity at around 100 mph
    
 ## Day 10
@@ -64,6 +63,10 @@ Possible relevant article [PIXE and XRF analysis of atmospheric aerosols from a 
 Also this one, [Simultaneous PIXE and XRF elemental analysis of atmospheric aerosols](https://www.researchgate.net/publication/271226028_Simultaneous_PIXE_and_XRF_elemental_analysis_of_atmospheric_aerosols)
 
 Also this! [Potassium as a Marker in Air Particulate Matter After Crop Residue Burning Events in Patiala, India](https://www.researchgate.net/publication/257164864_Potassium_as_a_Marker_in_Air_Particulate_Matter_After_Crop_Residue_Burning_Events_in_Patiala_India)
+
+Learned how to use the XRF in Saints Center-
+  * Many questions were raised regarding things to do/ things we need
+    * What are our filters made of? How do we minimize contaminating the filter? How do we maximize the measurements we take? 
   
    
 
