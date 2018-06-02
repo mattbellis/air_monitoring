@@ -48,7 +48,7 @@ Can we 3D print a holder! Maybe by modifiying a design of something else?
 ## Day 9:
   * Work on prototype of tube attachment that will have pitot tube
    * Potentially thinking of getting bluetooth arduino
-  * Try to 3-D print a filter holder because filter holders cost around $300
+  
    * The filters we have are 4.5 cm roughly, would 8 of them to amount to the 15 cm sized filter
   * Thinking about attaching a cone to the end of the pitot tube hose and then the pitot tube hose to the vacuum with a filter in front of pitot
   * Probably will need ball flow meter, possibly a manometer if we need density
@@ -68,6 +68,8 @@ Learned how to use the XRF in Saints Center-
   * Many questions were raised regarding things to do/ things we need
     * What are our filters made of? How do we minimize contaminating the filter? How do we maximize the measurements we take? 
   * Should get our own hard drive// can we collect raw data? 
+  
+Ideas of 3D printing a filter holder
   
    
 
