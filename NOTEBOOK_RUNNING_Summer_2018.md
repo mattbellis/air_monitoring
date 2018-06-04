@@ -1,5 +1,18 @@
+# Week 3 (06/04/2018 - 06/08/2018):
 
-# Week 2 (05/28/2018 - 06/01/2018)
+## Day 11:
+  * 3-D printed prototypes of the filter holder and the prototype of the apparatus that will hold the pitot tube in place within the PVC pipe
+  * It took three tries to get the correct measurements for the pitot tube holder, first we tried the holder to have a diameter of 30mm, each leg was 13.5, second try was making the holder to have a diameter of 35mm and the legs to be 15mm each which was too big and the third holder has measurement of 45mm for the radius and 20.50 for each leg. Hopefully this last prototype has the correct measurements or else it's back to the drawing board
+  * The filter holder only took two tries, the first try the holder was too small it wasonly 50mm in diameter whereas the new one is 52mm
+  * The filter fits well onto the new filter holder
+  * The next step is to mount everything onto a vacuum to see if they'll stay
+  * We will be getting new filters tomorrow and figuring out what material they're made out of which will help when we analyze our air samples via the XRF machine
+
+
+
+
+
+# Week 2 (05/28/2018 - 06/01/2018):
 
 ## Day 6 [Memorial Day]:
  * Designed potential model for how to hook sensors up to vacuum tube
@@ -70,11 +83,6 @@ Learned how to use the XRF in Saints Center-
   * Should get our own hard drive// can we collect raw data? 
   
 Ideas of 3D printing a filter holder
-  
-   
-
-
-
 
 
 # Week 1 (5/21/2018-5/25/2018)
