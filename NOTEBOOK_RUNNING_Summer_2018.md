@@ -7,6 +7,16 @@
   * The filter fits well onto the new filter holder
   * The next step is to mount everything onto a vacuum to see if they'll stay
   * We will be getting new filters tomorrow and figuring out what material they're made out of which will help when we analyze our air samples via the XRF machine
+  
+## Day 12:
+ * Created the prototype for the pitot tube holder and attachments to the vacuum
+ * Went to Loews and purchased necessary materials
+   * Used cups, hot glue, the pitot tube and filter holderprototypes, pvc pipe and other connector to create prototype
+   https://formufit.com/pages/pvc-pipe-size-dimensions-chart
+   
+## Day 13: 
+ * Work on tactile button switch 
+ * Wiring it with LED to see if we can get it to work
 
 
 
@@ -83,6 +93,7 @@ Learned how to use the XRF in Saints Center-
   * Should get our own hard drive// can we collect raw data? 
   
 Ideas of 3D printing a filter holder
+http://www.hi-q.net/products/filter-holders/combination-cartridge-paper-holders/default.html
 
 
 # Week 1 (5/21/2018-5/25/2018)
