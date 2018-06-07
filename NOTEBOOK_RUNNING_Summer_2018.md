@@ -17,7 +17,7 @@
 ## Day 13: 
  * Work on tactile button switch 
  * Wiring it with LED to see if we can get it to work
- * Messed around with previous prototype.
+ * Messed around with previous prototype
 
 
 
