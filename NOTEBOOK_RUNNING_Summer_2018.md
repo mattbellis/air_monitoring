@@ -10,14 +10,14 @@
   
 ## Day 12:
  * Created the prototype for the pitot tube holder and attachments to the vacuum
- * Went to Loews and purchased necessary materials
+ * Went to Lowes and purchased necessary materials
    * Used cups, hot glue, the pitot tube and filter holderprototypes, pvc pipe and other connector to create prototype
    https://formufit.com/pages/pvc-pipe-size-dimensions-chart
    
 ## Day 13: 
  * Work on tactile button switch 
  * Wiring it with LED to see if we can get it to work
-
+ * Messed around with previous prototype.
 
 
 
