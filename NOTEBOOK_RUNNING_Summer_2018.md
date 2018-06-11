@@ -1,7 +1,11 @@
 # Week 4 (06/11/2018 - 06/15/2018):
 ## Day 16:
  * We increased the distance between the pitot tube and the filter holder, this fixed some of our issues with getting a negative pressure
-
+ * Took test measurements, had mesh over the filter and filter holder so the filter didn't get sucked in 
+ * We used the XRF to test a few samples, we tested the inside and outside of a banana peel, a filter that was rubbed on the banana peel, a filter rubbed on the ground and kinda on a tree and a fresh, pure filter
+ * The PDF's and CSV's as well as the HD Prime viewer onto a flash drive
+ * Found ideas on Thinkiverse for a new filter holder that clicks in 
+ * Also worked a little bit on the poster template, creating rough draft for poster on our Air Monitoring experiment
 
 
 
