@@ -1,6 +1,6 @@
 # Week 4 (06/11/2018 - 06/15/2018):
 ## Day 16:
-
+ * We increased the distance between the pitot tube and the filter holder, this fixed some of our issues with getting a negative pressure
 
 
 
