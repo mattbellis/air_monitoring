@@ -18,6 +18,19 @@
  * Work on tactile button switch 
  * Wiring it with LED to see if we can get it to work
  * Messed around with previous prototype
+ 
+## Day 14
+ * Went to target to get a Black and Decker cordless lithium battery powered vacuum.
+ * This isn't the best thing for the experimetn considering it runs on a battery
+ * Went to lowes to get some connecters for our apparatus, shoutout to Raffi.
+ * We went back to Target and got a Bissel vacuum.
+ 
+ 
+## Day 15
+ * We put together our apparatus.
+ * When hooked up to the vacuum, we think we were getting good measurements.
+  * When we put on a filter, or something that covered up the air, we were getting nans for our velocity
+   * How do fix?????
 
 
 
