@@ -29,8 +29,8 @@
 ## Day 15
  * We put together our apparatus.
  * When hooked up to the vacuum, we think we were getting good measurements.
-  * When we put on a filter, or something that covered up the air, we were getting nans for our velocity
-   * How do fix?????
+   * When we put on a filter, or something that covered up the air, we were getting nans for our velocity
+    * How do fix?????
 
 
 
