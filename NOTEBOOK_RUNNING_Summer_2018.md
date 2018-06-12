@@ -6,7 +6,16 @@
  * The PDF's and CSV's as well as the HD Prime viewer onto a flash drive
  * Found ideas on Thinkiverse for a new filter holder that clicks in 
  * Also worked a little bit on the poster template, creating rough draft for poster on our Air Monitoring experiment
-
+     * Helpful articles for poster:
+          * https://www.nature.com/articles/d41586-018-03991-y
+          * https://physicsworld.com/a/dark-matter-and-muons-are-ruled-out-as-dama-signal-source/
+          
+## Day 17:
+ * Worked on the poster board more
+ * 3-D printed more filter holders
+    * Links to which ones we used (previously linked in Github):
+      * https://www.thingiverse.com/thing:2485988
+      * https://www.thingiverse.com/thing:2480965
 
 
 # Week 3 (06/04/2018 - 06/08/2018):
