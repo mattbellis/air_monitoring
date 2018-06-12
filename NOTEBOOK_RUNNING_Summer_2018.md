@@ -29,6 +29,10 @@
  * Work on tactile button switch 
  * Wiring it with LED to see if we can get it to work
  * Messed around with previous prototype
+ * https://learn.adafruit.com/adafruit-arduino-lesson-6-digital-inputs/push-switches
+ * https://learn.adafruit.com/adafruit-arduino-lesson-6-digital-inputs/arduino-code
+ * https://learn.adafruit.com/adafruit-arduino-lesson-6-digital-inputs/breadboard-layout
+ * https://www.arduino.cc/en/Tutorial/Button
  
 ## Day 14
  * Went to target to get a Black and Decker cordless lithium battery powered vacuum.
