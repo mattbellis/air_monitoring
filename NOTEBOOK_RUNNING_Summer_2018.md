@@ -17,8 +17,34 @@
     * Links to which ones we used (previously linked in Github):
       * https://www.thingiverse.com/thing:2485988
       * https://www.thingiverse.com/thing:2480965
+    * These filters holders do not work!! >:(
+  * Used a cork to block air coming out of hole where pitot tubes come out
+  * Ran the vacuum for 10 minutes, 20 minutes, then 30 minutes.
+     * For every ten minutes she pulled in *about* 9 cubic meters of air 
+     * Ten minutes - 9 m^3; 20 minutes 15 m^3; 30 minutes - 25 m^3
+    
+  
+  
+# Day 18
+  * Started using data logging shields
+  * Soldered the shield to the arduino
+  * All day failed at finding a code to get the data to save
+  * We lose analog A4, A5; digital 10, 11, 12, 13
+  
+  * Vacuum data should be about right!!
 
+# Day 19
 
+  * Failed *again* at getting the data on to the SD card,,, untill Bellis does his magic and gets it working
+  * For some reason, the code crashes when anything involving the DHT22 sensor for humidity and temperature
+  * For right now, we are using the barometric pressure sensor to get temperature, however will need to revisit to get a precise density using humidity
+  * Tested the 0.8 micrometer filter for 30 minutes in the vacuum and another one sitting out in the open next to the vacuum.
+  
+# Day 20
+
+  
+  
+  
 # Week 3 (06/04/2018 - 06/08/2018):
 
 ## Day 11:
