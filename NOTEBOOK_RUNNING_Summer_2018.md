@@ -1,3 +1,17 @@
+
+
+# Week 5 (6/18/18 - 6/22/18);
+## Day 21:
+ * Day at Union utilizing the Ion Accelerater
+ * Analyzed all 6 samples
+ * The 2.5 micro meter filters had traces of titanium?
+ * Both had Cl, Ca, Cr, Fe
+ * The Vacuum or Air filter didn't pick up anything other than the pristine filter
+   * Is the particulate matter bouncing off? Going straight through?
+   * Could adding kapton tape to the back of the filter allow the particulate to stick to the tape?
+
+
+
 # Week 4 (06/11/2018 - 06/15/2018):
 ## Day 16:
  * We increased the distance between the pitot tube and the filter holder, this fixed some of our issues with getting a negative pressure
