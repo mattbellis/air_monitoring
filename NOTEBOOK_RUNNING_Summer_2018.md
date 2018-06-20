@@ -24,7 +24,6 @@
   * Artifact of digitization, took a smooth analog data set and converted it into steps
   * Points float around because of the change in temperature
   
-  
  * Tape Ideas:
       * Essentially snapping a filter holder with tape on it above mesh with pvs pipe, then another pipe with filter on it
       * Having a filter holder with a tube-like apparatus that holds the filter onto the holder, then a 3-D printed strip of plastic or something for the Kapton tape 
@@ -35,6 +34,35 @@
   * Printed temp in Kelvin and Faranheit
 
 * Run for 45 minutes [0.8]
+   * Not using filter, something was wrong with the code
+
+ * Working to make the code calculate all the averages in order to get average mass flow rate
+  * Temperature did not change drastically; however apparatus is in the shade
+    * Getting "nan" every 10 or so seconds
+  * Biggest issue was differential pressure 
+    * low teens and then up to 60's ????
+  * Without filter:
+    * Recorded data for 5 minutes; velocity was around 40 - 50 m/s
+    
+
+
+## Day 23:
+  * Analyze samples in the XRF
+  * Found the usual suspects for the [2.5 micron]
+    * Cr, Ca, Ti but no Cl... why is that?
+    * Also found Mn, Ni, Cu, Zn, Sr and Au
+    
+ * In the [0.8 micron]
+    * No Ti or Cl
+    * Found Cr, Ca, Zn, Ni, Cu and Fe
+    * Titanium could be bigger than 0.8 microns, but we did find Ti in the prestine filter sample of the 2.5 micron, could be part of that filter's composition or on the case?
+  
+ * Just the Kapton tape:
+    * Si, Fe, Ni, Zn
+    
+ * The other day there were construction workers cutting into brick, could have been left over particles from that
+ * Bricks are 20% - 30% Alumina (Al2O3) and 50% - 60% Silica (SiO2) so the Silicon could be from the brick dust/debri
+  
 
 
 
