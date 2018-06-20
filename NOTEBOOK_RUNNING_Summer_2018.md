@@ -8,7 +8,33 @@
  * Both had Cl, Ca, Cr, Fe
  * The Vacuum or Air filter didn't pick up anything other than the pristine filter
    * Is the particulate matter bouncing off? Going straight through?
-   * Could adding kapton tape to the back of the filter allow the particulate to stick to the tape?
+   * Could adding kapton tape to the back of the filter allow the particulate to stick to the tap 
+ 
+## Day 22:
+  * Take samples for 1 hour
+    * Put kapton tape behind/on the back of the filter
+  * Kapton tape on the filter; start @ 10:30 AM , [0.8 micron]
+    * Beginning velocities: 7 - 12 m/s
+    * Velocity dropped to 7 - 9 m/s
+  * Kapton tape on filter; start @ 12 PM, [2.5 micron]
+    * Beginning velocities: 10 - 13 m/s
+    * Remained fairly constant: 10 - 13 m/s
+  * Graph layering due to precision of pitot tube
+    * gpas in velocity is due to analog to digital conversion
+  * Artifact of digitization, took a smooth analog data set and converted it into steps
+  * Points float around because of the change in temperature
+  
+  
+ * Tape Ideas:
+      * Essentially snapping a filter holder with tape on it above mesh with pvs pipe, then another pipe with filter on it
+      * Having a filter holder with a tube-like apparatus that holds the filter onto the holder, then a 3-D printed strip of plastic or something for the Kapton tape 
+  
+  
+* We tried to find a correlation between temperature changes and layering/changes in velocity
+  * Code had an extra parantheses
+  * Printed temp in Kelvin and Faranheit
+
+* Run for 45 minutes [0.8]
 
 
 
