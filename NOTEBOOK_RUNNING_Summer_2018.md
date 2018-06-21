@@ -30,42 +30,37 @@
   
   
 * We tried to find a correlation between temperature changes and layering/changes in velocity
-  * Code had an extra parantheses
-  * Printed temp in Kelvin and Faranheit
 
-* Run for 45 minutes [0.8]
-   * Not using filter, something was wrong with the code
+* Ran 0.8 filter for 30 minutes, getting a negative pressure every now and then?
 
- * Working to make the code calculate all the averages in order to get average mass flow rate
   * Temperature did not change drastically; however apparatus is in the shade
-    * Getting "nan" every 10 or so seconds
   * Biggest issue was differential pressure 
-    * low teens and then up to 60's ????
+   * low teens and then up to 60's ????
   * Without filter:
-    * Recorded data for 5 minutes; velocity was around 40 - 50 m/s
+   * Recorded data for 5 minutes; velocity was around 40 - 50 m/s
     
 
 
 ## Day 23:
   * Analyze samples in the XRF
-  * Found the usual suspects for the [2.5 micron]
-    * Cr, Ca, Ti but no Cl... why is that?
-    * Also found Mn, Ni, Cu, Zn, Sr and Au
-    
- * In the [0.8 micron]
-    * No Ti or Cl
-    * Found Cr, Ca, Zn, Ni, Cu and Fe
-    * Titanium could be bigger than 0.8 microns, but we did find Ti in the prestine filter sample of the 2.5 micron, could be part of that filter's composition or on the case?
-  
+ * On 2.5 filter;
+   * Ca, Ti, Cr, Fe, Ni, Cu, Zn, Sr, Au, Mn
+    * When changed to "LE" ?? (I'm guessing that means low energy), Al, Cl, K, Ca, Ti, Cr, Mn
+ * In the [0.8 micron] ;
+   * Ca, Cr, Fe, Ni, Cu, Zn
+    * When changed to "LE"; Al, Cl, Ca, Cr, Mn, Ba
  * Just the Kapton tape:
-    * Si, Fe, Ni, Zn
+   * Si, Fe, Ni, Zn
+    * When changed to "LE"; Al, Si, Ca, Mn, Ba
+    * "HE"; Ti, Fe, Ni, Zn, As
     
+ * Potassium!!!!!!!!!
  * The other day there were construction workers cutting into brick, could have been left over particles from that
  * Bricks are 20% - 30% Alumina (Al2O3) and 50% - 60% Silica (SiO2) so the Silicon could be from the brick dust/debri
      * http://www.civileblog.com/bricks/#Composition
+     
+ * Possible use of nine-stage aerosol impactor
   
-
-
 
 # Week 4 (06/11/2018 - 06/15/2018):
 ## Day 16:
