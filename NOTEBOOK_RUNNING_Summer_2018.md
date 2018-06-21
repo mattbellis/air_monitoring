@@ -25,11 +25,9 @@
   * Points float around because of the change in temperature
   
  * Tape Ideas:
-      * Essentially snapping a filter holder with tape on it above mesh with pvs pipe, then another pipe with filter on it
       * Having a filter holder with a tube-like apparatus that holds the filter onto the holder, then a 3-D printed strip of plastic or something for the Kapton tape 
   
-  
-* We tried to find a correlation between temperature changes and layering/changes in velocity
+* We tried to find a correlation between temperature changes and layering/changes in velocity; there isn't
 
 * Ran 0.8 filter for 30 minutes, getting a negative pressure every now and then?
 
@@ -54,12 +52,14 @@
     * When changed to "LE"; Al, Si, Ca, Mn, Ba
     * "HE"; Ti, Fe, Ni, Zn, As
     
- * Potassium!!!!!!!!!... very very very little potassium but she showed up
+ * Potassium!!!!!!!!!... very very very little potassium but she showed up??
  * The other day there were construction workers cutting into brick, could have been left over particles from that
  * Bricks are 20% - 30% Alumina (Al2O3) and 50% - 60% Silica (SiO2) so the Silicon could be from the brick dust/debri
      * http://www.civileblog.com/bricks/#Composition
      
- * Possible use of nine-stage aerosol impactor
+ * Possible use of nine-stage aerosol impactor and vacuum pump.
+ 
+ * Found a different code for pressure dif and..... have we been wrong?
   
 
 # Week 4 (06/11/2018 - 06/15/2018):
