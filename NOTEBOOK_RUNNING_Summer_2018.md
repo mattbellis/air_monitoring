@@ -54,7 +54,7 @@
     * When changed to "LE"; Al, Si, Ca, Mn, Ba
     * "HE"; Ti, Fe, Ni, Zn, As
     
- * Potassium!!!!!!!!!
+ * Potassium!!!!!!!!!... very very very little potassium but she showed up
  * The other day there were construction workers cutting into brick, could have been left over particles from that
  * Bricks are 20% - 30% Alumina (Al2O3) and 50% - 60% Silica (SiO2) so the Silicon could be from the brick dust/debri
      * http://www.civileblog.com/bricks/#Composition
