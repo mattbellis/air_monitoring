@@ -60,7 +60,33 @@
  * Possible use of nine-stage aerosol impactor and vacuum pump.
  
  * Found a different code for pressure dif and..... have we been wrong?
+
+
+## Day 24
+  * Researched the nine-stage aerosol impactor;
+    * Use with a vacuum pump thingy, these vacuums can run for a longer amount of time but do not pull in air as fast,
+    * Could 24 hours with a vacuum pump give us the same results as 2 hours with our *regular* vacuum?
+  * Utilizing the double sided carbon tape;
+    * The carbon tape is conductive and can be used with the SEM in the SAInT Center;
+     * Elimintaes X-rays coming in from the detector from the substrate
+     
+  * We chose a different spot to vacuum outside;
+    * There was no construction going on and there was also a garden type area with flowers and dirt
+  * Vacuumed for one hour with carbon tape on the back of a 0.8 micro meter filter & one hour on back of 2.5 micro meter filter
+    * Also left carbon tape outside next to the vacuum for one hour
   
+  * 3-D printed another filter holder, this one is extended (a little taller) and also has a plastic strip for tape
+    * Can put mesh on the end of the filter holder, something to easily take on and off (Tape will be behind the filter)
+     * We should 3-D print another filter holder to go over this tape-modified one to put the actual filter into
+     
+     
+ ## Day 25
+   * We used the SEM (Scanning Electron Microscope) in the SAInT Center
+     * Analyzed the carbon tape that was on the filter(s)
+      * Did not find anything of significance on the 2.5 Micron filter 
+       * Things found on the tape from the 0.8 Micron filter were about 100 microns, could these be just from contamination?
+   * Analyzed the carbon tape under the XRF as well,
+     * Got a lot of data, could be from the stage that held the carbon tape, probably mostly contamination :/
 
 # Week 4 (06/11/2018 - 06/15/2018):
 ## Day 16:
