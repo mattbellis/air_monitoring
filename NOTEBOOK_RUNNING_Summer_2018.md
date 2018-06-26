@@ -1,5 +1,27 @@
 
-
+# Week 6 (6/25/18 - 6/29/18);
+## Day 26:
+  * 3-D printed filter holder with removable piece for that tape
+  * Lots and lots and lots of sampling today
+    * Used impactor filters;
+     * Ran for 30 minutes with each of the two filters
+      * Used the wrong side........ oops
+    * Kapton tape on back of both filters for 30 minutes each
+    * Carbon tape on back of both filters for 30 minutes each
+  * Should try to find a different spot where one won't find us to be a nuisance
+    
+    
+## Day 27:
+  * Day at Union using ion accelerator again!
+  * Realixed our filters may be a little too thick to penetrate through, receiving a lot of background scattering
+  * Found very small peaks of potassium on impactor disks!
+    * Had our impactor all set up and ready to be used when we can
+    * Should try to continue using the impactor disks
+     * The filter holder with removable tape should be helpful to elimate the background we are getting due to the filter getting in the way
+     * Can we possibly find double sided kapton tape?
+      * https://www.kaptontape.com/Double_Sided_Polyimide_Tapes.php
+      * https://www.caplinq.com/2-mil-polyimide-kapton-tape-silicone-adhesive-double-sided-pit2sd-series.html
+     * If the impactor disks work, we can use the impactor itself or build another holder to hold the disks behind our own contraption
 # Week 5 (6/18/18 - 6/22/18);
 ## Day 21:
  * Day at Union utilizing the Ion Accelerater
@@ -131,6 +153,13 @@
   * Tested the 0.8 micrometer filter for 30 minutes in the vacuum and another one sitting out in the open next to the vacuum.
   
 # Day 20
+  * Possibly buying or 3-D printing a case for the arduino;
+    * Printed one that was downloaded from thingiverse; turned out to be a failure of course
+    * Testing 2.5 filter;
+     * Seemed to be running a little slower?
+  * Seeing how long the vacuum can run for without breaking down;
+    * Don't remember what micron filter we used 
+    * 2 and a half hours before we had to go home
 
   
   
