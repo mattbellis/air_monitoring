@@ -18,10 +18,10 @@
     * Had our impactor all set up and ready to be used when we can
     * Should try to continue using the impactor disks
      * The filter holder with removable tape should be helpful to elimate the background we are getting due to the filter getting in the way
-     * Can we possibly find double sided kapton tape?
-      * https://www.kaptontape.com/Double_Sided_Polyimide_Tapes.php
-      * https://www.caplinq.com/2-mil-polyimide-kapton-tape-silicone-adhesive-double-sided-pit2sd-series.html
-     * If the impactor disks work, we can use the impactor itself or build another holder to hold the disks behind our own contraption
+  * Can we possibly find double sided kapton tape?
+  * https://www.kaptontape.com/Double_Sided_Polyimide_Tapes.php
+  * https://www.caplinq.com/2-mil-polyimide-kapton-tape-silicone-adhesive-double-sided-pit2sd-series.html
+  * If the impactor disks work, we can use the impactor itself or build another holder to hold the disks behind our own contraption
 # Week 5 (6/18/18 - 6/22/18);
 ## Day 21:
  * Day at Union utilizing the Ion Accelerater
