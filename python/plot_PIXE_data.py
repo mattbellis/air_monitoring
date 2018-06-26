@@ -22,9 +22,9 @@ for infilename in infilenames:
     vals /= live_time
     x = np.linspace(0,len(vals),len(vals))
     #print(x)
-    x*=2.8
+    x*=0.031
 
-    plt.plot(x,vals,'-',label=infilename)
+    plt.plot(x,vals,'.',label=infilename)
 
 plt.yscale('log')
 plt.legend()
