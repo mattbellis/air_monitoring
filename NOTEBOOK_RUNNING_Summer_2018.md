@@ -13,7 +13,7 @@
     
 ## Day 27:
   * Day at Union using ion accelerator again!
-  * Realixed our filters may be a little too thick to penetrate through, receiving a lot of background scattering
+  * Realized our filters may be a little too thick to penetrate through, receiving a lot of background scattering
   * Found very small peaks of potassium on impactor disks!
     * Had our impactor all set up and ready to be used when we can
     * Should try to continue using the impactor disks
@@ -22,6 +22,38 @@
   * https://www.kaptontape.com/Double_Sided_Polyimide_Tapes.php
   * https://www.caplinq.com/2-mil-polyimide-kapton-tape-silicone-adhesive-double-sided-pit2sd-series.html
   * If the impactor disks work, we can use the impactor itself or build another holder to hold the disks behind our own contraption
+  
+## Day 28: 
+  * Went to SAInT Center to analyze samples that we already analyzed at Union
+    * Next time: if we want to compare to go to Union after
+    * Could not get too accurate of results due to the burn on the samples
+    * Got a very small peak for potassium on 0.8 impactor disk, but not the 2.5, 
+     * There was a peak at 2.5 but did not show on the spectrum 
+    * Could not use SEM or use the XRF on the Carbon Tape
+  * Thinking about adding the ball flow meter to our appartus, behind the pitot tube, need adapters
+    * Went to lowes;
+     * Got female adapters and more of those rubber connectors (2 of each)
+     * Got wD-40:
+      * Protective white lithium grease 
+      * Water resistant silicone lube
+     * Idea: spray on tape, place tape behind the filter and the particulate sticks to the WD-40
+      * The point of WD-40 is to not leave a tacky, sticky residue, however particulate matter small enough may be able to stick to it
+
+## Day 29:
+  * Finally found an outdoor outlet
+  * Placed tape on the removable piece of the filter holder, let run for an hour with the 0.8 filter
+    * Used Bellis' battery power thing to charge the arduino
+    * When using, there is a little on and off switch by the power source 
+    * For some reason, the offset isn't calculating properly, could be because of the battery? We haven't changed the code at all
+    
+  * Put the ball flow meter in with our apparatus, the vacuum is too strong for it, would work better with the vacuum pump
+  
+  * Tried to utilize one of the WD-40's, the white lithium grease
+   * Sprayed this on a piece of tape and placed on removable piece
+  * Started pouring outside!!
+   * We ran the vacuum for about 20 minutes before realizing that the vacuum was pulling in water
+   * The piece of tape disappeared into oblivion
+  
 # Week 5 (6/18/18 - 6/22/18);
 ## Day 21:
  * Day at Union utilizing the Ion Accelerater
@@ -30,7 +62,7 @@
  * Both had Cl, Ca, Cr, Fe
  * The Vacuum or Air filter didn't pick up anything other than the pristine filter
    * Is the particulate matter bouncing off? Going straight through?
-   * Could adding kapton tape to the back of the filter allow the particulate to stick to the tap 
+   * Could adding kapton tape to the back of the filter allow the particulate to stick to the tape
  
 ## Day 22:
   * Take samples for 1 hour
