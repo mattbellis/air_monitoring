@@ -36,8 +36,8 @@
      * Got wD-40:
       * Protective white lithium grease 
       * Water resistant silicone lube
-     * Idea: spray on tape, place tape behind the filter and the particulate sticks to the WD-40
-      * The point of WD-40 is to not leave a tacky, sticky residue, however particulate matter small enough may be able to stick to it
+    * Idea: spray on tape, place tape behind the filter and the particulate sticks to the WD-40
+     * The point of WD-40 is to not leave a tacky, sticky residue, however particulate matter small enough may be able to stick to it
 
 ## Day 29:
   * Finally found an outdoor outlet
@@ -51,8 +51,8 @@
   * Tried to utilize one of the WD-40's, the white lithium grease
    * Sprayed this on a piece of tape and placed on removable piece
   * Started pouring outside!!
-   * We ran the vacuum for about 20 minutes before realizing that the vacuum was pulling in water
-   * The piece of tape disappeared into oblivion
+    * We ran the vacuum for about 20 minutes before realizing that the vacuum was pulling in water
+    * The piece of tape disappeared into oblivion
   
 # Week 5 (6/18/18 - 6/22/18);
 ## Day 21:
