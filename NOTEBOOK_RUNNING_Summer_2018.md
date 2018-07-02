@@ -1,3 +1,11 @@
+# Week 7 (7/2/18 - 7/6/18);
+## Day 31:
+  * Blistering hot day and a little humid;
+   * This may in some ways affect our results, help or hinder? (not that we've gotten too much of what we want to see..)
+  * Going to retry the idea of the tape on the removable piece with the white lithium grease behind the 2.5 filter, maybe it flew off into oblivion before due to the rain causing the tape to unstick
+    * Sprayed about 6 inches away, a light coat that covered just enough of the surface
+     * To be ran for about 40 minutes with battery
+
 
 # Week 6 (6/25/18 - 6/29/18);
 ## Day 26:
@@ -47,12 +55,23 @@
     * For some reason, the offset isn't calculating properly, could be because of the battery? We haven't changed the code at all
     
   * Put the ball flow meter in with our apparatus, the vacuum is too strong for it, would work better with the vacuum pump
-  
   * Tried to utilize one of the WD-40's, the white lithium grease
    * Sprayed this on a piece of tape and placed on removable piece
   * Started pouring outside!!
     * We ran the vacuum for about 20 minutes before realizing that the vacuum was pulling in water
     * The piece of tape disappeared into oblivion
+    
+## Day 30:
+  * Loro's last day :(
+  * Had to put our apparatus back together due to it getting soaked yesterday
+   * Ideas on how to run if it rains?
+    * Have it held vertically somehow and have a cone/funnel thing at filter end to allow air to still flow in but block out the rain
+    * ?????? Some type of cover over it
+    * 
+  * Cut down the PVC pipe a little, it was so long before because we experienced turbulence when the filter was too close to the pitot tube
+  * Organized the lab
+  * Fixed the code? There may be some issues with the pitot tube because all I had to do was plug and unplug the wires 
+    * When finalizing and coming uo with a permanant and consistent setup, should solder the wires back in
   
 # Week 5 (6/18/18 - 6/22/18);
 ## Day 21:
