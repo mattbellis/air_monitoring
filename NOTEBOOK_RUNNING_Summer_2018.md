@@ -4,7 +4,18 @@
    * This may in some ways affect our results, help or hinder? (not that we've gotten too much of what we want to see..)
   * Going to retry the idea of the tape on the removable piece with the white lithium grease behind the 2.5 filter, maybe it flew off into oblivion before due to the rain causing the tape to unstick
     * Sprayed about 6 inches away, a light coat that covered just enough of the surface
-     * To be ran for about 40 minutes with battery
+     * To be ran for about 30 minutes with battery
+      * Didnotworkofcourse! 
+  * Code is again messed up, will run samples without code until i figure out what's up
+  * Ran samples with sticky side facing out behind both filters for 30 minutes each
+  * Had to break after each run due to vacuum getting extremely hot
+  * Tried the spray again, got too much on, spray got onto the sticky side of the tape causing it to be not sticky
+  * Tried to spray again, held about 8 inches away and as lightly as possible sprayed the silicone lubricant.
+   * The back of the tape did not get wet however after the 30 minutes, the tape was about half off the removable piece
+   
+   
+ ## Day 32:
+   *
 
 
 # Week 6 (6/25/18 - 6/29/18);
