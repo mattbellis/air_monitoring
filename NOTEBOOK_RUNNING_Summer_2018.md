@@ -15,7 +15,36 @@
    
    
  ## Day 32:
-   *
+   * Another hot day!!
+    * More samples to be ran today
+   * Todays Goal; Get the spray to work!!
+   * Tested the silicone spray on tape behind the 0.8 filter
+     * Held about 8 inches away, very light spray
+      * Running with no code because the code is still messed up ??????
+     * Ran for 30 minutes
+      * Tape fell off of course
+   * Ripped off an even larger piece of tape and wrapped it around the entire removable piece.
+   * Ran this with the same filter just to see if it would stay so I didn't waste a filter
+    * When spraying the spray onto the tape, I sprayed a mist of spray into the air and let the mist fall onto the tape, about 10 inches away
+     * The tape stayed on the piece!!
+     * However I see no particulate, could be from the used filter, which probably was not the best idea
+    * Tried to do again with 2.5 filter, saw no particulate again;
+      * This is probably a good thing considering 2.5 microns is so small I probably should  not see it, however when running the samples with the sticky side of the kapton tape facing out, I always see particulate on the tape
+       * This probably is not a good thing, probably a lot of contamination on it
+       
+   * How can we better our results and do this more precisely and consistently???
+   
+## Day 33:
+  * America's 242th birthday
+  
+  * Redid all the wires on the arduino, should consider soldering to Perma Breadboard
+    * [We have one of these](https://www.adafruit.com/product/571)
+    * However DHT22 ( Temp and Humidity Sensor ) still does not work when running the code with the SD card
+     * Cannot figure this out ??? Can't find anyone else with this problem as well
+     
+   * Code still is funky once battery is plugged in to power arduino?
+    * It is either the pitot tube or the battery
+     * Once you plug and unplug the pitot tube wires it goes back to normal but switches up every now and then
 
 
 # Week 6 (6/25/18 - 6/29/18);
