@@ -45,6 +45,29 @@
    * Code still is funky once battery is plugged in to power arduino?
     * It is either the pitot tube or the battery
      * Once you plug and unplug the pitot tube wires it goes back to normal but switches up every now and then
+     
+## Day 34:
+  * Running the vacuum with the impactor disksas well as the vacuum pump
+    * Hooked up ball flow meter to the vacuum pump, unless I am doing something wrong this pump is also way too strong for the ball flow meter. Not really sure what the point of it is
+    * Didn't run anything with the code, since the code only works when it wants to
+    * Ran the impactor disks using both the 0.8 filter and the 2.5 filter
+     * Since the filter holder is a little bigger it was harder to get the impactor disk to be centered on the filter. The disk itself was not centered, however the whole disk was in the line of the stream flow.
+      * Not even sure where the direct line of flow is but it's alright
+      
+    * It started to **pour** after only running for about 3 hours, so the vacuum pump didn't get to show her true potential.
+     * The vacuum pump was incredibly hot, I couldn't even touch it. Don't know if that's from the sunlight?? Or if it was overheating
+   * The battery thing only works when it wants to. Sometime the offset changes ?? Sometimes it doesn't even save the data. Sometimes it collects even when I have the switch turned to off??? Whatever
+   
+   * The DHT sensor suddenly somewhat works! Can't collect temperature or heat index from it however we can get the humidity. This way we can revisit our density equation. 
+     * Can now solder everything to the perma board
+     
+     
+## Day 36:
+ *shoter day today since i put in extra hours throughut the week*
+   * Isn't much left to do this week except analyze the samples and solder
+    * Can't go to the SAInT Center because no one is here :/
+    * Looked for solder for about 30 minutes, found 6 soldering irons and no solder
+  * All info and video is on [this page](https://www.adafruit.com/product/571)
 
 
 # Week 6 (6/25/18 - 6/29/18);
