@@ -1,3 +1,28 @@
+# 9/14/2018
+
+Dekati is a company out of Finland (but with an American distributor in Minnesota) who builds high quality
+aerosol measuring devices. 
+
+https://www.dekati.com/products/Fine%20Particle%20Measurement/DLPI
+
+If you go to the accessories part of that, they make a spray and templates that might be used as a subtrate
+on which we can collect particulate. 
+
+*Dekati® Collection Substrate Spray
+
+The collection substrates are often greased in impactor measurements to prevent particle bounce and blow-off from the impactor stages. The Dekati® Collection Substrate Spray is developed to grease the substrates faster and more evenly than with the traditional greasing methods. When used together with a stencil, the Dekati® Collection Substrate Spray enables an easy and fast way of applying a thin and smooth layer of grease on the collection substrates. The grease used in the spray is non-volatile also at low pressures and is therefore suitable for use in low pressure impactors, and also chemically pure enough to enable most chemical analysis to be done from the substrates. Stencils are available for 25 mm substrates that are used in the ELPI®+, High Resolution ELPI®+, High Temperature ELPI®+, ELPI®, DLPI+, DLPI and Dekati® PM10 impactors.*
+
+Here's a paper by a group that used their stuff and it talks about how to set up a good collection process. 
+
+https://flore.unifi.it/retrieve/handle/2158/495657/15907/ED-XRF%20set-up%20for%20size-segregated%20aerosol%20sample%20analysis.pdf
+
+Here's an older paper about particle bounce from 1992. 
+
+https://www.tandfonline.com/doi/pdf/10.1080/02786829208959544
+
+
+
+
 # Week 7 (7/2/18 - 7/6/18);
 ## Day 31:
   * Blistering hot day and a little humid;
