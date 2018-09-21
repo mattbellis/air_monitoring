@@ -1,4 +1,26 @@
 # 9/21/2018
+A very big article but ctrl + f "substrate" and you'll find some good stuff.
+https://www.epa.gov/sites/production/files/2017-01/documents/final_draft_pm2.5_speciation_guidance_1999.pdf
+
+After doing some research, it is said that it is impossible to read two analog readings at once???
+  * Whatever.. I tried it though and I got it to read two pitot tubes at once!?!
+   * Need to add more code,, we will have a lot to read, what will we decide to "print"/ what will be necessary?
+
+Dual intake!!
+  * Get more PVC (probably this weekend).
+  * Get a PVC pipe that branches out two ways
+  * More rubber connectors
+    * How are we going to carry this? Take apart and put back together each time we measure??? Seems like a pain..
+     * How long does the PVC pipe need to be to reduce the turbulence the pitot tube experiences?
+     
+Also, calibration of the pitot tube..:
+Found some stuff, none of them make too much sense to me
+https://www.canada.ca/en/environment-climate-change/services/canadian-environmental-protection-act-registry/publications/reference-method-measuring-releases-particulate/method-f.html
+
+https://www.nist.gov/sites/default/files/documents/2017/10/31/alternate-pitot-tube-calibration-methodology.pdf
+
+https://www.basicairdata.eu/knowledge-center/calibration/pitot-static-probe-calibrator/
+
 
 
 
