@@ -1,3 +1,9 @@
+# 9/21/2018
+
+
+
+
+
 # 9/14/2018
 
 Dekati is a company out of Finland (but with an American distributor in Minnesota) who builds high quality
@@ -24,6 +30,15 @@ https://flore.unifi.it/retrieve/handle/2158/495657/15907/ED-XRF%20set-up%20for%2
 Here's an older paper about particle bounce from 1992. 
 
 https://www.tandfonline.com/doi/pdf/10.1080/02786829208959544
+
+Things to do this fall:
+  * Building two intakes
+    * This will need two pitot tubes? Can the arduino read in two pitot tubes?
+  * What else do we have to purchase?
+    * Ball flow meter? Better vacuum?
+  * Will have to calibrate the pitot tube every now and then
+  * Will we use the XRF or PIXE?
+  * Substrate / Substrate holder?
 
 
 
