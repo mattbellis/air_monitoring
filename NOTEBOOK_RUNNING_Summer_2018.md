@@ -21,7 +21,10 @@ https://www.nist.gov/sites/default/files/documents/2017/10/31/alternate-pitot-tu
 
 https://www.basicairdata.eu/knowledge-center/calibration/pitot-static-probe-calibrator/
 
+*-- Bellis edit*
+We might also want to get an anemometer for comparing windspeed measurements. 
 
+https://www.amazon.com/PROSTER-Anemometer-Measurement-Thermometer-Windsurfing/dp/B00KYL3VNS?ref_=fsclp_pl_dp_2
 
 
 
