@@ -26,7 +26,7 @@ We might also want to get an anemometer for comparing windspeed measurements.
 
 https://www.amazon.com/PROSTER-Anemometer-Measurement-Thermometer-Windsurfing/dp/B00KYL3VNS?ref_=fsclp_pl_dp_2
 
-
+https://www.amazon.com/Ambient-Weather-WM-4-Temperature-Psychrometer/dp/B00540I7WO?ref_=fsclp_pl_dp_5
 
 
 # 9/14/2018
