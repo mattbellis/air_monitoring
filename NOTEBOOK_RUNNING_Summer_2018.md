@@ -1,3 +1,11 @@
+# 9/25/2018
+Four Lowe's runs;
+ * Finally got all of the material for the dual intake design
+ * Cut all of the PVC pipe and put the design together
+ 
+  * Got the pipes to be at a 45 degree angle, do we want 60? 90? 180?
+  
+
 # 9/21/2018
 A very big article but ctrl + f "substrate" and you'll find some good stuff.
 https://www.epa.gov/sites/production/files/2017-01/documents/final_draft_pm2.5_speciation_guidance_1999.pdf
