@@ -27,6 +27,7 @@ for infilename in infilenames:
     plt.plot(x,vals,'.',label=infilename)
 
 plt.yscale('log')
+plt.xlim(0.5, 5.0)
 plt.legend()
 
 plt.show()
