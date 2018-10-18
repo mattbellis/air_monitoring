@@ -1,3 +1,152 @@
+# 9/25/2018
+Four Lowe's runs;
+ * Finally got all of the material for the dual intake design
+ * Cut all of the PVC pipe and put the design together
+ 
+  * Got the pipes to be at a 45 degree angle, do we want 60? 90? 180?
+  
+
+# 9/21/2018
+A very big article but ctrl + f "substrate" and you'll find some good stuff.
+https://www.epa.gov/sites/production/files/2017-01/documents/final_draft_pm2.5_speciation_guidance_1999.pdf
+
+After doing some research, it is said that it is impossible to read two analog readings at once???
+  * Whatever.. I tried it though and I got it to read two pitot tubes at once!?!
+   * Need to add more code,, we will have a lot to read, what will we decide to "print"/ what will be necessary?
+
+Dual intake!!
+  * Get more PVC (probably this weekend).
+  * Get a PVC pipe that branches out two ways
+  * More rubber connectors
+    * How are we going to carry this? Take apart and put back together each time we measure??? Seems like a pain..
+     * How long does the PVC pipe need to be to reduce the turbulence the pitot tube experiences?
+     
+Also, calibration of the pitot tube..:
+Found some stuff, none of them make too much sense to me
+https://www.canada.ca/en/environment-climate-change/services/canadian-environmental-protection-act-registry/publications/reference-method-measuring-releases-particulate/method-f.html
+
+https://www.nist.gov/sites/default/files/documents/2017/10/31/alternate-pitot-tube-calibration-methodology.pdf
+
+https://www.basicairdata.eu/knowledge-center/calibration/pitot-static-probe-calibrator/
+
+*-- Bellis edit*
+We might also want to get an anemometer for comparing windspeed measurements. 
+
+https://www.amazon.com/PROSTER-Anemometer-Measurement-Thermometer-Windsurfing/dp/B00KYL3VNS?ref_=fsclp_pl_dp_2
+
+https://www.amazon.com/Ambient-Weather-WM-4-Temperature-Psychrometer/dp/B00540I7WO?ref_=fsclp_pl_dp_5
+
+
+# 9/14/2018
+
+Dekati is a company out of Finland (but with an American distributor in Minnesota) who builds high quality
+aerosol measuring devices. 
+
+https://www.dekati.com/products/Fine%20Particle%20Measurement/DLPI
+
+If you go to the accessories part of that, they make a spray and templates that might be used as a subtrate
+on which we can collect particulate. 
+
+*Dekati® Collection Substrate Spray
+
+The collection substrates are often greased in impactor measurements to prevent particle bounce and blow-off from the impactor stages. The Dekati® Collection Substrate Spray is developed to grease the substrates faster and more evenly than with the traditional greasing methods. When used together with a stencil, the Dekati® Collection Substrate Spray enables an easy and fast way of applying a thin and smooth layer of grease on the collection substrates. The grease used in the spray is non-volatile also at low pressures and is therefore suitable for use in low pressure impactors, and also chemically pure enough to enable most chemical analysis to be done from the substrates. Stencils are available for 25 mm substrates that are used in the ELPI®+, High Resolution ELPI®+, High Temperature ELPI®+, ELPI®, DLPI+, DLPI and Dekati® PM10 impactors.*
+
+Here is the American distributor
+
+http://www.particleinstruments.com/
+
+
+Here's a paper by a group that used their stuff and it talks about how to set up a good collection process. 
+
+https://flore.unifi.it/retrieve/handle/2158/495657/15907/ED-XRF%20set-up%20for%20size-segregated%20aerosol%20sample%20analysis.pdf
+
+Here's an older paper about particle bounce from 1992. 
+
+https://www.tandfonline.com/doi/pdf/10.1080/02786829208959544
+
+Things to do this fall:
+  * Building two intakes
+    * This will need two pitot tubes? Can the arduino read in two pitot tubes?
+  * What else do we have to purchase?
+    * Ball flow meter? Better vacuum?
+  * Will have to calibrate the pitot tube every now and then
+  * Will we use the XRF or PIXE?
+  * Substrate / Substrate holder?
+
+
+
+
+# Week 7 (7/2/18 - 7/6/18);
+## Day 31:
+  * Blistering hot day and a little humid;
+   * This may in some ways affect our results, help or hinder? (not that we've gotten too much of what we want to see..)
+  * Going to retry the idea of the tape on the removable piece with the white lithium grease behind the 2.5 filter, maybe it flew off into oblivion before due to the rain causing the tape to unstick
+    * Sprayed about 6 inches away, a light coat that covered just enough of the surface
+     * To be ran for about 30 minutes with battery
+      * Didnotworkofcourse! 
+  * Code is again messed up, will run samples without code until i figure out what's up
+  * Ran samples with sticky side facing out behind both filters for 30 minutes each
+  * Had to break after each run due to vacuum getting extremely hot
+  * Tried the spray again, got too much on, spray got onto the sticky side of the tape causing it to be not sticky
+  * Tried to spray again, held about 8 inches away and as lightly as possible sprayed the silicone lubricant.
+   * The back of the tape did not get wet however after the 30 minutes, the tape was about half off the removable piece
+   
+   
+ ## Day 32:
+   * Another hot day!!
+    * More samples to be ran today
+   * Todays Goal; Get the spray to work!!
+   * Tested the silicone spray on tape behind the 0.8 filter
+     * Held about 8 inches away, very light spray
+      * Running with no code because the code is still messed up ??????
+     * Ran for 30 minutes
+      * Tape fell off of course
+   * Ripped off an even larger piece of tape and wrapped it around the entire removable piece.
+   * Ran this with the same filter just to see if it would stay so I didn't waste a filter
+    * When spraying the spray onto the tape, I sprayed a mist of spray into the air and let the mist fall onto the tape, about 10 inches away
+     * The tape stayed on the piece!!
+     * However I see no particulate, could be from the used filter, which probably was not the best idea
+    * Tried to do again with 2.5 filter, saw no particulate again;
+      * This is probably a good thing considering 2.5 microns is so small I probably should  not see it, however when running the samples with the sticky side of the kapton tape facing out, I always see particulate on the tape
+       * This probably is not a good thing, probably a lot of contamination on it
+       
+   * How can we better our results and do this more precisely and consistently???
+   
+## Day 33:
+  * America's 242th birthday
+  
+  * Redid all the wires on the arduino, should consider soldering to Perma Breadboard
+    * [We have one of these](https://www.adafruit.com/product/571)
+    * However DHT22 ( Temp and Humidity Sensor ) still does not work when running the code with the SD card
+     * Cannot figure this out ??? Can't find anyone else with this problem as well
+     
+   * Code still is funky once battery is plugged in to power arduino?
+    * It is either the pitot tube or the battery
+     * Once you plug and unplug the pitot tube wires it goes back to normal but switches up every now and then
+     
+## Day 34:
+  * Running the vacuum with the impactor disksas well as the vacuum pump
+    * Hooked up ball flow meter to the vacuum pump, unless I am doing something wrong this pump is also way too strong for the ball flow meter. Not really sure what the point of it is
+    * Didn't run anything with the code, since the code only works when it wants to
+    * Ran the impactor disks using both the 0.8 filter and the 2.5 filter
+     * Since the filter holder is a little bigger it was harder to get the impactor disk to be centered on the filter. The disk itself was not centered, however the whole disk was in the line of the stream flow.
+      * Not even sure where the direct line of flow is but it's alright
+      
+    * It started to **pour** after only running for about 3 hours, so the vacuum pump didn't get to show her true potential.
+     * The vacuum pump was incredibly hot, I couldn't even touch it. Don't know if that's from the sunlight?? Or if it was overheating
+   * The battery thing only works when it wants to. Sometime the offset changes ?? Sometimes it doesn't even save the data. Sometimes it collects even when I have the switch turned to off??? Whatever
+   
+   * The DHT sensor suddenly somewhat works! Can't collect temperature or heat index from it however we can get the humidity. This way we can revisit our density equation. 
+     * Can now solder everything to the perma board
+     
+     
+## Day 36:
+ *shoter day today since i put in extra hours throughut the week*
+   * Isn't much left to do this week except analyze the samples and solder
+    * Can't go to the SAInT Center because no one is here :/
+    * Looked for solder for about 30 minutes, found 6 soldering irons and no solder
+  * All info and video is on [this page](https://www.adafruit.com/product/571)
+
 
 # Week 6 (6/25/18 - 6/29/18);
 ## Day 26:
@@ -13,7 +162,7 @@
     
 ## Day 27:
   * Day at Union using ion accelerator again!
-  * Realixed our filters may be a little too thick to penetrate through, receiving a lot of background scattering
+  * Realized our filters may be a little too thick to penetrate through, receiving a lot of background scattering
   * Found very small peaks of potassium on impactor disks!
     * Had our impactor all set up and ready to be used when we can
     * Should try to continue using the impactor disks
@@ -22,6 +171,49 @@
   * https://www.kaptontape.com/Double_Sided_Polyimide_Tapes.php
   * https://www.caplinq.com/2-mil-polyimide-kapton-tape-silicone-adhesive-double-sided-pit2sd-series.html
   * If the impactor disks work, we can use the impactor itself or build another holder to hold the disks behind our own contraption
+  
+## Day 28: 
+  * Went to SAInT Center to analyze samples that we already analyzed at Union
+    * Next time: if we want to compare to go to Union after
+    * Could not get too accurate of results due to the burn on the samples
+    * Got a very small peak for potassium on 0.8 impactor disk, but not the 2.5, 
+     * There was a peak at 2.5 but did not show on the spectrum 
+    * Could not use SEM or use the XRF on the Carbon Tape
+  * Thinking about adding the ball flow meter to our appartus, behind the pitot tube, need adapters
+    * Went to lowes;
+     * Got female adapters and more of those rubber connectors (2 of each)
+     * Got wD-40:
+      * Protective white lithium grease 
+      * Water resistant silicone lube
+    * Idea: spray on tape, place tape behind the filter and the particulate sticks to the WD-40
+     * The point of WD-40 is to not leave a tacky, sticky residue, however particulate matter small enough may be able to stick to it
+
+## Day 29:
+  * Finally found an outdoor outlet
+  * Placed tape on the removable piece of the filter holder, let run for an hour with the 0.8 filter
+    * Used Bellis' battery power thing to charge the arduino
+    * When using, there is a little on and off switch by the power source 
+    * For some reason, the offset isn't calculating properly, could be because of the battery? We haven't changed the code at all
+    
+  * Put the ball flow meter in with our apparatus, the vacuum is too strong for it, would work better with the vacuum pump
+  * Tried to utilize one of the WD-40's, the white lithium grease
+   * Sprayed this on a piece of tape and placed on removable piece
+  * Started pouring outside!!
+    * We ran the vacuum for about 20 minutes before realizing that the vacuum was pulling in water
+    * The piece of tape disappeared into oblivion
+    
+## Day 30:
+  * Loro's last day :(
+  * Had to put our apparatus back together due to it getting soaked yesterday
+   * Ideas on how to run if it rains?
+    * Have it held vertically somehow and have a cone/funnel thing at filter end to allow air to still flow in but block out the rain
+    * ?????? Some type of cover over it
+    * 
+  * Cut down the PVC pipe a little, it was so long before because we experienced turbulence when the filter was too close to the pitot tube
+  * Organized the lab
+  * Fixed the code? There may be some issues with the pitot tube because all I had to do was plug and unplug the wires 
+    * When finalizing and coming uo with a permanant and consistent setup, should solder the wires back in
+  
 # Week 5 (6/18/18 - 6/22/18);
 ## Day 21:
  * Day at Union utilizing the Ion Accelerater
@@ -30,7 +222,7 @@
  * Both had Cl, Ca, Cr, Fe
  * The Vacuum or Air filter didn't pick up anything other than the pristine filter
    * Is the particulate matter bouncing off? Going straight through?
-   * Could adding kapton tape to the back of the filter allow the particulate to stick to the tap 
+   * Could adding kapton tape to the back of the filter allow the particulate to stick to the tape
  
 ## Day 22:
   * Take samples for 1 hour
