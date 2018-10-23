@@ -1,3 +1,17 @@
+# 10/23/2018
+
+[A review of atmospheric aerosol measurements (1999)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.2091&rep=rep1&type=pdf) Might be worth reading. 
+
+[Time series analysis of PIXE aerosol measurements](https://www.researchgate.net/publication/229285341_Time_series_analysis_of_PIXE_aerosol_measurements) Should read this as well. 
+
+[Another article about PIXE measurements, including some time-dependence of potassium due to biomass burning](https://flore.unifi.it/retrieve/handle/2158/495658/15908/Is%20PIXE%20still%20a%20useful%20technique%20for%20the%20analysis%20of%20atmospheric%20aerosols%20The%20LABEC%20experience.pdf)
+
+
+
+
+
+
+
 # 9/25/2018
 Four Lowe's runs;
  * Finally got all of the material for the dual intake design
