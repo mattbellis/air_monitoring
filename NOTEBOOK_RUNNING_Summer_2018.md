@@ -16,6 +16,8 @@ analysis (XRF) or proton induced x-ray emission
 
 [Also this about optimizing PIXE measurements](https://inis.iaea.org/search/search.aspx?orig_q=RN:21089196)
 
+[Read this talk about PIXE with high throughput!](http://airuse.eu/wp-content/uploads/2013/11/2014_Calzolai_CAARI_fin2.pdf)
+
 
 
 
