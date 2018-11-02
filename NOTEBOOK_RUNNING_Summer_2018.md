@@ -25,7 +25,7 @@ Monitor/simple laptop so we can leave her wherever without having to leave my la
 
 Code:
 
-* Saving to SD card/ saving to a file/ saving straight to a computer/
+* saving straight to a computer/
 
 
 
