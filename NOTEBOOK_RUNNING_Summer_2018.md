@@ -1,3 +1,24 @@
+# 11/2/2018
+What we need:
+When printing off the ardiuno we need:
+* Pitot 1 - Offset (Raw number btw 0-1023),Voltage (Converted to 0-5), Pressure_Dif, Vel/Speed
+* Pitot 2 - " "
+* Temperature
+* Humidity
+* Density
+* Barometric Pressure
+Things we should get:
+* More pitot tubes?
+* Another Barometric Pressure Sensor- This measuresbarometric pressure and temperature
+* The humidity sensor - We have a DHT 22 ( i think) however it has never fully worke. It meaures temperature and humidity, we could try to find something that just measure humidity? Or find something that combines barometric pressure (is this necessary since we have differential pressure?), humidity and temperature.
+How do we calculate the density of humid air- We have the density of dry air-- how much of a difference?
+Another battery powered thing?
+Monitor/simple laptop so we can leave her wherever without having to leave my laptop/someones personal (matt probably has an old laptop for this use laying around somewhere).
+Code:
+Saving to SD card/ saving to a file/ saving straight to a computer/
+
+
+
 # 10/23/2018
 
 [A review of atmospheric aerosol measurements (1999)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.2091&rep=rep1&type=pdf) Might be worth reading. 
@@ -42,7 +63,7 @@ https://www.epa.gov/sites/production/files/2017-01/documents/final_draft_pm2.5_s
 
 After doing some research, it is said that it is impossible to read two analog readings at once???
   * Whatever.. I tried it though and I got it to read two pitot tubes at once!?!
-   * Need to add more code,, we will have a lot to read, what will we decide to "print"/ what will be necessary?
+   * Need to add more code,, we will have a lot to read, what will we decide to "print"/ what will be necessary?i
 
 Dual intake!!
   * Get more PVC (probably this weekend).
