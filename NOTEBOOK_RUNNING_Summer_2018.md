@@ -1,13 +1,17 @@
 # 11/2/2018
 What we need:
+
 When printing off the ardiuno we need:
+
 * Pitot 1 - Offset (Raw number btw 0-1023),Voltage (Converted to 0-5), Pressure_Dif, Vel/Speed
 * Pitot 2 - " "
 * Temperature
 * Humidity
 * Density
 * Barometric Pressure
+
 Things we should get:
+
 * More pitot tubes?
 * Another Barometric Pressure Sensor- This measuresbarometric pressure and temperature
 * The humidity sensor - We have a DHT 22 ( i think) however it has never fully worke. It meaures temperature and humidity, we could try to find something that just measure humidity? Or find something that combines barometric pressure (is this necessary since we have differential pressure?), humidity and temperature.
