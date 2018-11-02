@@ -14,12 +14,18 @@ Things we should get:
 
 * More pitot tubes?
 * Another Barometric Pressure Sensor- This measuresbarometric pressure and temperature
+
 * The humidity sensor - We have a DHT 22 ( i think) however it has never fully worke. It meaures temperature and humidity, we could try to find something that just measure humidity? Or find something that combines barometric pressure (is this necessary since we have differential pressure?), humidity and temperature.
+
 How do we calculate the density of humid air- We have the density of dry air-- how much of a difference?
+
 Another battery powered thing?
+
 Monitor/simple laptop so we can leave her wherever without having to leave my laptop/someones personal (matt probably has an old laptop for this use laying around somewhere).
+
 Code:
-Saving to SD card/ saving to a file/ saving straight to a computer/
+
+* Saving to SD card/ saving to a file/ saving straight to a computer/
 
 
 
