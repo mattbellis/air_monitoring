@@ -27,6 +27,9 @@ Code:
 
 * saving straight to a computer/
 
+https://arduino.stackexchange.com/questions/39224/write-data-on-the-computer-with-arduino
+
+
 
 
 # 10/23/2018
