@@ -18,13 +18,17 @@ analysis (XRF) or proton induced x-ray emission
 
 [Read this talk about PIXE with high throughput!](http://airuse.eu/wp-content/uploads/2013/11/2014_Calzolai_CAARI_fin2.pdf)
 
+# 10/19/18
+3D Printing the pieces we need
 
 
+# 10/5/18
+Putting the dual intake design together!
+45 Degree angles 
+Using foam insulation to block the air escaping the pitot tube holes. 
 
 
-
-
-# 9/25/2018
+# 9/28/2018
 Four Lowe's runs;
  * Finally got all of the material for the dual intake design
  * Cut all of the PVC pipe and put the design together
