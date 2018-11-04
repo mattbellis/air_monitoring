@@ -1,3 +1,8 @@
+# 11/3/2018
+
+[PVC dimensions](https://formufit.com/pages/pvc-pipe-size-dimensions-chart) so we can get inside and outside measurements.
+
+
 # 11/2/2018
 What we need:
 
