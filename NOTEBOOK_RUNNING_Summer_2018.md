@@ -3,7 +3,7 @@
 * Letting the vacuum run for an hour or so to see how both tubes together will measure
 
 * Code looks a little off-- Using the same calculations, however not getting the same answers??
-** Pitot tube 2 seems to be a little off, the voltage is constantly reading 0 and the speeds are flucuating a lot, not at all the same speeds as pitot 1
+ * Pitot tube 2 seems to be a little off, the voltage is constantly reading 0 and the speeds are flucuating a lot, not at all the same speeds as pitot 1
 
 
 # 11/9/2018
