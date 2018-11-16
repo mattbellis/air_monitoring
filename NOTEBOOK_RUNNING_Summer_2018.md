@@ -1,3 +1,22 @@
+# 11/16/2018
+
+* Letting the vacuum run for an hour or so to see how both tubes together will measure
+
+* Code looks a little off-- Using the same calculations, however not getting the same answers??
+** Pitot tube 2 seems to be a little off, the voltage is constantly reading 0 and the speeds are flucuating a lot, not at all the same speeds as pitot 1
+
+
+# 11/9/2018
+
+* Downloaded PySerial-- code will save straight to computer using python code
+
+* Bellis printed out new substrate holders
+* Used the mill to cut out holes for the holders to fit right in
+
+* Code prints out everything - including DHT Sensor- Humidity-- Using a new sensor
+
+
+
 # 11/3/2018
 
 [PVC dimensions](https://formufit.com/pages/pvc-pipe-size-dimensions-chart) so we can get inside and outside measurements.
