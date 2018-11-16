@@ -1,6 +1,9 @@
 # 11/16/2018
 
-* Letting the vacuum run for an hour or so to see how both tubes together will measure
+The biggest issue is removing and putting the pitot tubes back in
+ * The styrofoam gets caught in the tube and has to get ripped out, making a new one is just harder and harder. The cork worked when we first had it in. Should we try to find something more efficient?
+
+* Letting the vacuum run for 40ish minutes to see how both tubes together will measure
 
 * Code looks a little off-- Using the same calculations, however not getting the same answers??
  * Pitot tube 2 seems to be a little off, the voltage is constantly reading 0 and the speeds are flucuating a lot, not at all the same speeds as pitot 1
