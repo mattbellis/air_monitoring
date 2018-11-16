@@ -7,7 +7,7 @@ The biggest issue is removing and putting the pitot tubes back in
 
 * Code looks a little off-- Using the same calculations, however not getting the same answers??
  * Pitot tube 2 seems to be a little off, the voltage is constantly reading 0 and the speeds are flucuating a lot, not at all the same speeds as pitot 1
-[Calculating the density of humid air](https://www.omnicalculator.com/physics/air-density#how-to-calculate-the-air-density)
+* [Calculating the density of humid air](https://www.omnicalculator.com/physics/air-density#how-to-calculate-the-air-density)
 
 # 11/9/2018
 
