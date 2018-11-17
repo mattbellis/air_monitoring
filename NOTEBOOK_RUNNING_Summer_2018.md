@@ -1,3 +1,15 @@
+# 11/17/2018
+
+The voltage seems to jump around which could potentially lead to *50%* uncertainties in the velocity measurements! We might
+want to connect a wall-wart to the Arduino as that might make the voltage more stable. We should try this. 
+
+https://www.google.com/search?q=arduino+stable+voltage+reference&oq=arduino+stable+voltage&aqs=chrome.1.69i57j0.5184j1j7&sourceid=chrome&ie=UTF-8
+
+http://forum.arduino.cc/index.php?topic=22132.0
+
+
+
+
 # 11/16/2018
 
 The biggest issue is removing and putting the pitot tubes back in
