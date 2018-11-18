@@ -7,6 +7,10 @@ https://www.google.com/search?q=arduino+stable+voltage+reference&oq=arduino+stab
 
 http://forum.arduino.cc/index.php?topic=22132.0
 
+### More on this issue here
+https://www.intorobotics.com/how-to-make-accurate-adc-readings-with-arduino/
+
+
 
 
 
