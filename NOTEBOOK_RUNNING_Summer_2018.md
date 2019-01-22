@@ -3,10 +3,10 @@
 To-do:
 * (Bellis). Order the substrates. 
 * (Cassandra). On this document take stock of where we are with the electronics and intake system. For example:
-** Are the electronics robust (do the wires still come out). 
-** Is the entire air intake system robust (could we put it outside right now and collect air for 2 hours)
-** Do we know where we would place it. 
-** Can we check the new, more precise Pitot tube? 
+   * Are the electronics robust (do the wires still come out). 
+   * Is the entire air intake system robust (could we put it outside right now and collect air for 2 hours)
+   * Do we know where we would place it. 
+   * Can we check the new, more precise Pitot tube? 
 
    Now that we've checked how the Pitot tube needs to be placed, we should record data for 1+ hours and see how stable things are. 
 
