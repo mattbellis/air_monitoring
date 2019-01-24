@@ -1,3 +1,10 @@
+# 1/24/2019
+
+[Interesting article](https://physicsworld.com/a/gran-sasso-lab-to-shut-down-controversial-experiments/) about how Borexino
+and another experiment will be removed from Gran Sasso so they do not contaminate the water supply. 
+Has some additional information about the water table there and the overhead (how much the mountain above provides
+shielding). 
+
 # 1/22/2019
 
 To-do:
