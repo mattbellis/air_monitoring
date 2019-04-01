@@ -76,7 +76,7 @@ void loop() {
     if (velocity1 > 0.0) { vel1 = sqrt(velocity1);
     }
     float vel2 = 0;
-    if (velocity2 > 0.0) { vel1 = sqrt(velocity2);
+    if (velocity2 > 0.0) { vel2 = sqrt(velocity2);
     }    
     Serial.print(millis()/1000.0,4);
     Serial.print(" ");

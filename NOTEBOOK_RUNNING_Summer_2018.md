@@ -1,3 +1,24 @@
+# 1/24/2019
+
+[Interesting article](https://physicsworld.com/a/gran-sasso-lab-to-shut-down-controversial-experiments/) about how Borexino
+and another experiment will be removed from Gran Sasso so they do not contaminate the water supply. 
+Has some additional information about the water table there and the overhead (how much the mountain above provides
+shielding). 
+
+# 1/22/2019
+
+To-do:
+* (Bellis). Order the substrates. 
+* (Cassandra). On this document take stock of where we are with the electronics and intake system. For example:
+   * Are the electronics robust (do the wires still come out). 
+   * Is the entire air intake system robust (could we put it outside right now and collect air for 2 hours)
+   * Do we know where we would place it. 
+   * Can we check the new, more precise Pitot tube? 
+
+   Now that we've checked how the Pitot tube needs to be placed, we should record data for 1+ hours and see how stable things are. 
+
+
+
 # 11/17/2018
 
 The voltage seems to jump around which could potentially lead to *50%* uncertainties in the velocity measurements! We might
