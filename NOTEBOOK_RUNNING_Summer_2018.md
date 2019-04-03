@@ -1,3 +1,12 @@
+# 4/3/2019
+
+Still getting what looks like turbulence. [This article](https://www.trutechtools.com/Measuring-Airflow-with-a-Pitot-Tube_c_253.html) mentions 
+
+*"Accurate readings cannot be taken in a turbulent air stream. A Pitot tube should be inserted at least 8-1/2 duct diameters downstream from elbows, bends or other obstructions which create turbulence. To insure precise measurements, straightening vanes should be located 5 duct diameters upstream from the Pitot tube if used."* 
+
+
+
+
 # 1/24/2019
 
 [Interesting article](https://physicsworld.com/a/gran-sasso-lab-to-shut-down-controversial-experiments/) about how Borexino
