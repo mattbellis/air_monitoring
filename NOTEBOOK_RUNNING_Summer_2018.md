@@ -1,3 +1,8 @@
+4/14/2019
+
+[Fungal spores contribute to K in aerosols?](https://iopscience.iop.org/article/10.1088/1748-9326/10/3/034015)
+
+
 # 4/3/2019
 
 Still getting what looks like turbulence. [This article](https://www.trutechtools.com/Measuring-Airflow-with-a-Pitot-Tube_c_253.html) mentions 
