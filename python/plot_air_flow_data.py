@@ -184,15 +184,33 @@ plt.tight_layout()
 
 
 
+# Smoothed average
+smt = []
+smavg0 = []
+smavg1 = []
+for i in range(3,len(data['time'])-3):
+    smt.append(np.mean(data['time'][i-3:i+3]))
+    smavg0.append(np.mean(data['vel0'][i-3:i+3]))
+    smavg1.append(np.mean(data['vel1'][i-3:i+3]))
 
-plt.figure()
-#plt.plot(data["time"],data["vel0"]-data["vel1"],'.',label=r'Velocity 0')
-plt.plot(data["time"],data["vel0"],'.',label=r'Velocity 0')
-plt.plot(data["time"],data["vel1"],'.',label=r'Velocity 1')
-plt.xlabel("Time (min)",fontsize=12)
-#plt.ylabel(r"V/V$^2$ (m/s or m$^2$/s$^2$)",fontsize=12)
-plt.ylabel(r"V (m/s)",fontsize=12)
-plt.legend()
+plt.figure(figsize=(12,6))
+plt.subplot(2,1,1)
+plt.plot(data["time"],data["vel0"],'.',label=r'Inlet 0')
+plt.plot(smt,smavg0,'-',label=r'Smoothed average')
+plt.xlabel("Time (min)",fontsize=14)
+plt.ylabel(r"V (m/s)",fontsize=14)
+plt.legend(fontsize=14)
+
+plt.subplot(2,1,2)
+plt.plot(data["time"],data["vel1"],'.',label=r'Inlet 1')
+plt.plot(smt,smavg1,'-',label=r'Smoothed average')
+plt.xlabel("Time (min)",fontsize=14)
+plt.ylabel(r"V (m/s)",fontsize=14)
+plt.legend(fontsize=14)
+
+plt.tight_layout()
+plt.savefig('dama_tests_velocities.png')
+
 
 
 plt.show()
