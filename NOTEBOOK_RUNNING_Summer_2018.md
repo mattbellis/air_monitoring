@@ -1,6 +1,24 @@
-4/14/2019
+# 4/14/2019
 
 [Fungal spores contribute to K in aerosols?](https://iopscience.iop.org/article/10.1088/1748-9326/10/3/034015)
+
+[Sulfur, potassium, and phosphorus associations in aerosols from South American tropical rain forests] (https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/JC084iC07p03723)
+Mention of Pb in aerosols. Also discussion about why these are released into the air. Should get full article!
+
+
+[Combustion aerosols from potassium-containing fuels](https://www.osti.gov/etdeweb/servlets/purl/333920)
+
+[Main particulate matter components in Saxony (Germany)](https://link.springer.com/article/10.1007/BF02987559) Should get full article!
+
+[
+REPORT
+Biogenic Potassium Salt Particles as Seeds for Secondary Organic Aerosol in the Amazon](https://science.sciencemag.org/content/337/6098/1075?sid=91b1ba31-3de6-42fb-8600-94f47ba1ac4a) Should get full article!
+
+[Condensed aerosol fire suppression](https://en.wikipedia.org/wiki/Condensed_aerosol_fire_suppression) uses potassium carbonate???
+
+
+
+
 
 
 # 4/3/2019
