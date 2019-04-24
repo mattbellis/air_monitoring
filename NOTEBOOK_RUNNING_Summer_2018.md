@@ -1,3 +1,13 @@
+# 4/24/2019
+
+[Contact at UC Davis](http://physics.ucdavis.edu/people/faculty/thomas-cahill) who has done *considerable* work with aerosols.
+He spoke with Lauren at April APS about our work and might have a lot to share. 
+
+It looks like he's used equipment from [DrumAir](http://www.drumair.com/) sampling consultants. They also have
+information about different [analysis techniques](http://www.drumair.com/analysis) like PIGE/PIXE/SEM/XRF. 
+And some [data](http://www.drumair.com/data) showing potassium. 
+
+
 # 4/14/2019
 
 [Fungal spores contribute to K in aerosols?](https://iopscience.iop.org/article/10.1088/1748-9326/10/3/034015)
