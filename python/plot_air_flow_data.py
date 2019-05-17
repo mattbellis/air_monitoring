@@ -8,7 +8,7 @@ def parse_line(line):
 
     vals = line.split()
     nvals = len(vals)
-    if nvals!=14:
+    if nvals!=15:
         return None
 
     time = float(vals[0])
@@ -26,9 +26,10 @@ def parse_line(line):
 
     baro = float(vals[11])
     tempF = float(vals[12])
-    humidity = float(vals[13])
+    tempF2 = float(vals[13])
+    humidity = float(vals[14])
 
-    return time, offset0, bits0, voltage0, deltaP0, velsq0, offset1, bits1, voltage1, deltaP1, velsq1, baro, tempF, humidity
+    return time, offset0, bits0, voltage0, deltaP0, velsq0, offset1, bits1, voltage1, deltaP1, velsq1, baro, tempF, tempF2, humidity
     
 
 
@@ -48,16 +49,18 @@ data["deltaP1"] = []
 data["velsq1"] = [] 
 data["baro"] = [] 
 data["tempF"] = [] 
+data["tempF2"] = [] 
 data["humidity"] = []
 
 infilename = sys.argv[1]
 infile = open(infilename)
 
 for line in infile:
-    print(line)
+    
+    #print(line)
     vals = parse_line(line)
     if vals is not None:
-        time, offset0, bits0, voltage0, deltaP0, velsq0, offset1, bits1, voltage1, deltaP1, velsq1, baro, tempF, humidity = vals
+        time, offset0, bits0, voltage0, deltaP0, velsq0, offset1, bits1, voltage1, deltaP1, velsq1, baro, tempF, tempF2, humidity = vals
         data["time"].append(time)
         data["bits0"].append(bits0)
         data["offset0"].append(offset0)
@@ -70,8 +73,11 @@ for line in infile:
         data["deltaP1"].append(deltaP1)
         data["velsq1"].append(velsq1)
         data["tempF"].append(tempF)
+        data["tempF2"].append(tempF2)
         data["baro"].append(baro)
         data["humidity"].append(humidity)
+
+print(data) 
 
 for key in data.keys():
     data[key] = np.array(data[key])
@@ -82,15 +88,17 @@ print(data["deltaP0"])
 # Convert seconds to minutes
 data["time"] = data["time"]/60.0
 
+density_of_air = 1.225 
+
 # MY CALCS
 slope = 1.0
 data["voltage0"] = (data["bits0"]/1023.0)*5.0
 data["deltaP0"] = 1000.0*(data["voltage0"] - data["offset0"])/slope
-data["velsq0"] = (2*data["deltaP0"])/1.225
+data["velsq0"] = (2*data["deltaP0"])/density_of_air
 
 data["voltage1"] = (data["bits1"]/1023.0)*5.0
 data["deltaP1"] = 1000.0*(data["voltage1"] - data["offset1"])/slope
-data["velsq1"] = (2*data["deltaP1"])/1.225
+data["velsq1"] = (2*data["deltaP1"])/density_of_air
 
 
 #######################
@@ -176,13 +184,33 @@ plt.tight_layout()
 
 
 
+# Smoothed average
+smt = []
+smavg0 = []
+smavg1 = []
+for i in range(3,len(data['time'])-3):
+    smt.append(np.mean(data['time'][i-3:i+3]))
+    smavg0.append(np.mean(data['vel0'][i-3:i+3]))
+    smavg1.append(np.mean(data['vel1'][i-3:i+3]))
 
-plt.figure()
-plt.plot(data["time"],data["vel0"]-data["vel1"],'.',label=r'Velocity 0')
-#plt.plot(data["time"],data["vel1"],'.',label=r'Velocity 1')
-plt.xlabel("Time (min)",fontsize=12)
-plt.ylabel(r"V/V$^2$ (m/s or m$^2$/s$^2$)",fontsize=12)
-plt.legend()
+plt.figure(figsize=(12,6))
+plt.subplot(2,1,1)
+plt.plot(data["time"],data["vel0"],'.',label=r'Inlet 0')
+plt.plot(smt,smavg0,'-',label=r'Smoothed average')
+plt.xlabel("Time (min)",fontsize=14)
+plt.ylabel(r"V (m/s)",fontsize=14)
+plt.legend(fontsize=14)
+
+plt.subplot(2,1,2)
+plt.plot(data["time"],data["vel1"],'.',label=r'Inlet 1')
+plt.plot(smt,smavg1,'-',label=r'Smoothed average')
+plt.xlabel("Time (min)",fontsize=14)
+plt.ylabel(r"V (m/s)",fontsize=14)
+plt.legend(fontsize=14)
+
+plt.tight_layout()
+plt.savefig('dama_tests_velocities.png')
+
 
 
 plt.show()

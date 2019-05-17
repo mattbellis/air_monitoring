@@ -35,7 +35,7 @@ for icount,infilename in enumerate(infilenames):
 plt.yscale('log')
 plt.xlim(2,5)
 #plt.xlim(2,10)
-plt.ylim(1,110)
+plt.ylim(1,140)
 plt.xlabel('Energy [keV]',fontsize=18)
 plt.ylabel('Counts',fontsize=18)
 ax = plt.gca()

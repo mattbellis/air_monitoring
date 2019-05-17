@@ -15,7 +15,11 @@ print(outfilename)
 # USB ports or different computers.
 # We can get this from the lower right of any Arduino sketch
 
+<<<<<<< HEAD
+ser = serial.Serial('/dev/ttyACM0', 9600) # Establish the connection on a specific port
+=======
 ser = serial.Serial('/dev/ttyUSB0', 9600) # Establish the connection on a specific port
+>>>>>>> c1d8ed2c14b0f0b7c835d4b7cb03b341aed24685
 
 try:
     while True:
