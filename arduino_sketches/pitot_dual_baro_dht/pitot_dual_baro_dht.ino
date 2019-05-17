@@ -1,7 +1,7 @@
 #include "DHT.h"
 
 #define DHTPIN 2 
-#define DHTTYPE DHT21  
+#define DHTTYPE DHT21 // THis should be good for the DHT 2301 sensor  
 #include <Wire.h>
 #include <Adafruit_MPL3115A2.h>
 Adafruit_MPL3115A2 baro = Adafruit_MPL3115A2();
@@ -54,6 +54,9 @@ void loop() {
 
    
     float h = dht.readHumidity();
+    // Read temperature as Fahrenheit (isFahrenheit = true)
+    float dht_f = dht.readTemperature(true);
+
     pitot1 = analogRead(A0);
     pitot2 = analogRead(A1);
     voltage1 = (float) (pitot1 / 1023.0) * 5.0;
@@ -105,8 +108,10 @@ void loop() {
     Serial.print(" ");
     Serial.print(tempF);
     Serial.print(" ");
-    Serial.print(h);
+    Serial.print(dht_f);
+    Serial.print(" ");
+    Serial.print(h)
     Serial.print("\n");
-    delay(1000);
+    //delay(10);
 
 }
