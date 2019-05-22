@@ -6,9 +6,11 @@ int veloc = 0;
 int veloc2 = 0;
 int offset = 0;
 int offset2 = 0;
-int offset_size = 10;
+int offset_size = 100;
 int veloc_mean_size = 20l;
 int zero_span = 2;
+int pressure1 = 0;
+int pressure2 = 0;
 
 void setup() {
   // setup and calculate offset
@@ -32,6 +34,10 @@ void loop() {
   adc_avg/=veloc_mean_size;
   adc_avg2/=veloc_mean_size;
 
+  // Calculate pressure
+  pressure1 = (adc_avg - offset)*1000;
+  pressure2 = (adc_avg2 - offset2)*1000;
+
   // make sure if the ADC reads below 512 then its a negative velocity
   if (adc_avg>512-zero_span and adc_avg<512+zero_span){
   } else{
@@ -52,8 +58,15 @@ void loop() {
     }
   }
   Serial.print(veloc); 
-  Serial.println(" ");
-  //Serial.print(veloc2);
-  //Serial.println(" ");
+  Serial.print(" ");
+  Serial.print(adc_avg);
+  Serial.print(" ");
+  Serial.print(pressure1);
+  Serial.print(" ");
+  Serial.print(veloc2);
+  Serial.print(" ");
+  Serial.print(adc_avg2);
+  Serial.print(" ");
+  Serial.print(pressure2);
   delay(100);
 }
