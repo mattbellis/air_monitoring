@@ -20,8 +20,6 @@ float offset2 = 0.0;
 float offset_size = 100;
 float veloc_mean_size = 20l;
 float zero_span = 2;
-float pressure1 = 0.0;
-float pressure2 = 0.0;
 float voltage = 0.0;
 float voltage2 = 0.0;
 DHT dht(DHTPIN, DHTTYPE);
@@ -51,9 +49,6 @@ void loop() {
   voltage = (adc_avg/1023)*5;
   voltage2 = (adc_avg/1023)*5;
 
-  // Calculate pressure
-  pressure1 = (voltage - (offset/1023.0)*5) * 1000;
-  pressure2 = (voltage2 - (offset/1023.0)*5) * 1000;
 
   // make sure if the ADC reads below 512 then its a negative velocity
   if (adc_avg>512-zero_span and adc_avg<512+zero_span){
@@ -91,17 +86,13 @@ if (! baro.begin()) {
   Serial.print(adc_avg);
   Serial.print(" bits ");
   Serial.print(voltage);
-  Serial.print(" Volts ");
-  Serial.print(pressure1);
-  Serial.print("?      ");
+  Serial.print(" Volts   ");
   Serial.print(veloc2);
   Serial.print(" m/s ");
   Serial.print(adc_avg2);
   Serial.print(" bits ");
   Serial.print(voltage2);
-  Serial.print(" Volts ");
-  Serial.print(pressure2);
-  Serial.print("?      ");
+  Serial.print(" Volts   ");
   Serial.print(bar);
   Serial.print(" kPa ");
   Serial.print(tempF);
