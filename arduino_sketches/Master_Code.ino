@@ -107,7 +107,7 @@ if (! baro.begin()) {
   Serial.print(bar);
   Serial.print(" kPa ");
   Serial.print(h);
-  Serial.print(" g/m^3 ");
+  Serial.print(" ");
   Serial.print(tempF);
   Serial.println("F ");
   delay(100);
