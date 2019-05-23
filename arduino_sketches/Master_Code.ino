@@ -22,6 +22,8 @@ float veloc_mean_size = 20l;
 float zero_span = 2;
 float voltage = 0.0;
 float voltage2 = 0.0;
+float V1 = 0.0;
+float V2 = 0.0;
 DHT dht(DHTPIN, DHTTYPE);
 
 void setup() {
@@ -81,20 +83,31 @@ if (! baro.begin()) {
     }
   }
   
+   // Volume Calculation
+   V1 = PI * (0.0254)*(0.0254) * veloc;
+   V2 = PI * (0.0254)*(0.0254) * veloc2;
+
+  
   Serial.print(veloc); 
   Serial.print(" m/s ");
+  Serial.print(V1,4);
+  Serial.print(" m^3/s ");
   Serial.print(adc_avg);
   Serial.print(" bits ");
   Serial.print(voltage);
   Serial.print(" Volts   ");
   Serial.print(veloc2);
   Serial.print(" m/s ");
+  Serial.print(V2,4);
+  Serial.print(" m^3/s ");
   Serial.print(adc_avg2);
   Serial.print(" bits ");
   Serial.print(voltage2);
   Serial.print(" Volts   ");
   Serial.print(bar);
   Serial.print(" kPa ");
+  Serial.print(h);
+  Serial.print(" g/m^3 ");
   Serial.print(tempF);
   Serial.println("F ");
   delay(100);
