@@ -25,10 +25,7 @@ float voltage = 0;
 //float voltage2 = 0;
 DHT dht(DHTPIN, DHTTYPE);
 unsigned long time;
-<<<<<<< HEAD
-=======
 
->>>>>>> d31e456325db73bbcc755510536a32c417380808
 
 void setup() {
   // setup and calculate offset
@@ -90,17 +87,6 @@ if (! baro.begin()) {
     //}
   //}
 
-<<<<<<< HEAD
-float volume = 3.14159*(.0254*.0254)*veloc;
-//float volume2 = 3.14159*(.0254*.0254)*veloc2;
-
-  //Serial.print(veloc); 
-  //rial.print(" m/s ");
-  //Serial.print(volume,4);
-  //Serial.print("m^3/s ");
-  //Serial.print(adc_avg);
-  //Serial.print(" bits ");
-=======
   float volume = 3.14159*(.0254*.0254)*veloc;
   //float volume2 = 3.14159*(.0254*.0254)*veloc2;
   
@@ -110,7 +96,6 @@ float volume = 3.14159*(.0254*.0254)*veloc;
   //Serial.print(" m^3/s  ");
   //Serial.print(adc_avg);
   //Serial.print("  bits ");
->>>>>>> d31e456325db73bbcc755510536a32c417380808
   //Serial.print(voltage);
   //Serial.print(" Volts         ");
   //Serial.print(veloc2);
@@ -121,25 +106,14 @@ float volume = 3.14159*(.0254*.0254)*veloc;
   //Serial.print(" bits ");
   //Serial.print(voltage2);
   //Serial.print(" Volts        ");
-<<<<<<< HEAD
-  Serial.print("Time:  ");
-  time = millis();
-  Serial.print(time/1000.0,4);
-=======
   Serial.print("Time: ");
   time = millis();
-  Serial.print(time);
->>>>>>> d31e456325db73bbcc755510536a32c417380808
+  Serial.print(time/1000.0,4);
   Serial.print("   ");
   Serial.print(bar);
   Serial.print("  kPa  ");
   Serial.print(tempF);
-<<<<<<< HEAD
-  Serial.println(" F ");
-  //Serial.println(h);
-=======
   Serial.println("  F  ");
   //Serial.print(h);
->>>>>>> d31e456325db73bbcc755510536a32c417380808
   delay(1000);
 }
