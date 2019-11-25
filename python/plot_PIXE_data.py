@@ -72,7 +72,7 @@ ax.tick_params(axis = 'both', which = 'major', labelsize = 18)
 
 print("maxval: ",maxval)
 # Plot some elements
-elements_to_plot = ['Al', 'Si', 'Cl', 'K', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Cu']
+elements_to_plot = ['Al', 'Si', 'Cl', 'K', 'Ca', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Cu']
 
 colors = ['r','k','b','g','y','m']
 
