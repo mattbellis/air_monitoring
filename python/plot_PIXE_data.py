@@ -3,9 +3,13 @@ import matplotlib.pylab as plt
 
 import sys
 
+from xray_data import elements
+
 infilenames = sys.argv[1:]
 
 plt.figure(figsize=(12,5))
+
+maxval = 0
 
 for icount,infilename in enumerate(infilenames):
     data = open(infilename,encoding = "ISO-8859-1").readlines()
@@ -41,6 +45,9 @@ for icount,infilename in enumerate(infilenames):
     x *= slope
     x += intercept
 
+    if max(vals)>maxval:
+        maxval = max(vals)
+
     #plt.plot(x,vals,'.-',label=infilename,linewidth=3)
     # For paper plot
     # python plot_PIXE_data.py PIXE_data/Ktape_*
@@ -63,10 +70,28 @@ plt.ylabel('Counts',fontsize=18)
 ax = plt.gca()
 ax.tick_params(axis = 'both', which = 'major', labelsize = 18)
 
+print("maxval: ",maxval)
+# Plot some elements
+elements_to_plot = ['Al', 'Si', 'Cl', 'K', 'Mn', 'Fe', 'Cu']
+
+colors = ['r','k','b','g','y','m']
+
+#'''
+for ic,e in enumerate(elements_to_plot):
+    xrays = elements[e]
+    for i,xray in enumerate(xrays):
+        xray /= 1000.
+        if xray<13 and xray>1.:
+            if i==0:
+                plt.plot([xray,xray],[0.001,1.2*maxval],'--',label=e,color=colors[ic%len(colors)])
+            else:
+                plt.plot([xray,xray],[0.001,1.2*maxval],'--',color=colors[ic%len(colors)])
+#'''
+
 plt.tight_layout()
 
 #plt.legend(loc='lower left',fontsize=18)
-plt.legend()
+plt.legend(fontsize=18)
 
 plt.savefig('pixe_spectrum.png')
 
