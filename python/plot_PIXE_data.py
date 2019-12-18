@@ -32,9 +32,16 @@ for icount,infilename in enumerate(infilenames):
     intercept = (intercept1 + intercept0)/2
 
 
+    # Find where data starts
+    idx = -1
+    for i,d in enumerate(data):
+        if d.find('<<DATA>>')>=0:
+            idx = i
+    print(idx)
+
     #print(data[16:1040])
     vals = []
-    for i in data[16:1040]:
+    for i in data[idx+1:1024+idx+1]:
         vals.append(float(i.strip()))
 
     vals = np.array(vals)
@@ -91,7 +98,7 @@ for ic,e in enumerate(elements_to_plot):
 plt.tight_layout()
 
 #plt.legend(loc='lower left',fontsize=18)
-plt.legend(fontsize=18)
+plt.legend(fontsize=12)
 
 plt.savefig('pixe_spectrum.png')
 
