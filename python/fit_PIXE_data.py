@@ -70,7 +70,7 @@ for icount,infilename in enumerate(infilenames):
         vals.append(float(i.strip()))
 
     vals = np.array(vals)
-    vals /= live_time
+    #vals /= live_time
     x = np.linspace(0,len(vals),len(vals))
     x *= slope
     x += intercept
