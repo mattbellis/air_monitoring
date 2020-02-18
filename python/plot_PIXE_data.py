@@ -12,6 +12,7 @@ plt.figure(figsize=(12,5))
 maxval = 0
 
 for icount,infilename in enumerate(infilenames):
+    print(infilename)
     data = open(infilename,encoding = "ISO-8859-1").readlines()
 
     filelabel = infilename.split('/')[-1]
@@ -20,16 +21,23 @@ for icount,infilename in enumerate(infilenames):
     print(live_time)
 
     # Calibration
-    calib_labels = np.array([int(data[13].split()[0]), int(data[14].split()[0])])
-    print(calib_labels)
-    calib_channels = np.array([float(data[13].split()[-1]), float(data[14].split()[-1])])
-    print(calib_channels)
+    IS_CALIBRATION_DATA = False
+    for d in data:
+        if d.find("CALIBRATION")>=0:
+            IS_CALIBRATION_DATA = True
 
-    slope = (calib_channels[1] -  calib_channels[0])/(calib_labels[1] - calib_labels[0])
-    intercept1 = calib_channels[1] - calib_labels[1]*slope
-    intercept0 = calib_channels[0] - calib_labels[0]*slope
-    print(slope,intercept1,intercept0)
-    intercept = (intercept1 + intercept0)/2
+    slope,intercept = 0.0175,0
+    if IS_CALIBRATION_DATA:
+        calib_labels = np.array([int(data[13].split()[0]), int(data[14].split()[0])])
+        print(calib_labels)
+        calib_channels = np.array([float(data[13].split()[-1]), float(data[14].split()[-1])])
+        print(calib_channels)
+
+        slope = (calib_channels[1] -  calib_channels[0])/(calib_labels[1] - calib_labels[0])
+        intercept1 = calib_channels[1] - calib_labels[1]*slope
+        intercept0 = calib_channels[0] - calib_labels[0]*slope
+        print(slope,intercept1,intercept0)
+        intercept = (intercept1 + intercept0)/2
 
 
     # Find where data starts
