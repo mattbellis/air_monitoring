@@ -26,7 +26,8 @@ for icount,infilename in enumerate(infilenames):
         if d.find("CALIBRATION")>=0:
             IS_CALIBRATION_DATA = True
 
-    slope,intercept = 0.0175,0
+    slope,intercept = 0.0177,0.0
+    #slope,intercept = 1,0
     if IS_CALIBRATION_DATA:
         calib_labels = np.array([int(data[13].split()[0]), int(data[14].split()[0])])
         print(calib_labels)
